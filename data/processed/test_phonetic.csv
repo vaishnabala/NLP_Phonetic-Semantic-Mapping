@@ -1,0 +1,31 @@
+text,label,normalized,language_tags,phonetic
+sunset bahut beautiful tha clicked photos,positive,sunset bahut beautiful tha clicked photos,"['UNK', 'HI', 'EN', 'HI', 'EN', 'UNK']",/sʊnseːt bəhʊt bjuːtɪfʊl tʰaː klɪkkeːd foːtoːs/
+recipe try ki turned out delicious,positive,recipe try ki turned out delicious,"['UNK', 'EN', 'HI', 'EN', 'UNK', 'UNK']",/reːkɪpeː traɪ kiː tʊrneːd aʊt deːlɪkɪaʊs/
+standup show hilarious tha non stop laughing,positive,standup show hilarious tha non stop laughing,"['UNK', 'UNK', 'UNK', 'HI', 'UNK', 'UNK', 'EN']",/stəndʊp ʃoːw hɪlərɪaʊs tʰaː noːn stoːp laʊgʰɪŋ/
+diy project complete proud of myself,positive,diy project complete proud of myself,"['UNK', 'EN', 'UNK', 'UNK', 'UNK', 'UNK']",/dɪj prɒdʒekt koːmpleːteː praʊd oːf mjseːlf/
+baby ki smile made my day adorable,positive,baby ki smile made my day adorable,"['UNK', 'HI', 'UNK', 'EN', 'EN', 'EN', 'EN']",/bəbj kiː smɪleː meɪd maɪ deɪ ədoːrəbleː/
+old song suna nostalgia hit hard,positive,old song suna nostalgia hit hard,"['EN', 'EN', 'HI', 'UNK', 'UNK', 'EN']",/oʊld sɒŋ sʊnaː noːstəlgɪə hɪt hɑːrd/
+handwritten letter mila so thoughtful,positive,handwritten letter mila so thoughtful,"['UNK', 'UNK', 'HI', 'EN', 'UNK']",/həndwrɪtteːn leːtteːr mɪlaː soʊ tʰaʊgʰtfʊl/
+puppy adopt kiya cutest thing ever,positive,puppy adopt kya cutest thing ever,"['UNK', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/pʊppj ədoːpt kjaː kʊteːst θɪŋ eːveːr/
+rain ki smell refreshing feeling,positive,rain ki smell refreshing feeling,"['UNK', 'HI', 'UNK', 'EN', 'EN']",/raɪn kiː smeːll reːfreːʃɪŋ fiːlɪŋ/
+first salary se gift diya parents ko emotional,positive,first salary se gift diya parents ko emotional,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'UNK']",/fɪrst sələrj seː gɪft dɪjaː pəreːnts koː eːmoːtɪoːnəl/
+ice cream melt ho gayi garam mein wasted,negative,ice cream melt ho gayi garam mein wasted,"['UNK', 'UNK', 'UNK', 'HI', 'HI', 'UNK', 'HI', 'EN']",/ɪkeː kreːəm meːlt hoː gəjiː gərəm mẽː wəsteːd/
+remote ki battery dead channel change nahi hota,negative,remote ki battery dead channel change nahi hota,"['UNK', 'HI', 'UNK', 'UNK', 'UNK', 'UNK', 'HI', 'UNK']",/reːmoːteː kiː bətteːrj deːəd tʃənneːl tʃəŋeː nəhĩː hoːtə/
+zip stuck ho gayi jacket ki struggling,negative,zip stuck ho gayi jacket ki struggling,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'HI', 'EN']",/zɪp stʌk hoː gəjiː dʒəkkeːt kiː strʊgglɪŋ/
+lift band thi stairs climb karna pada,negative,lift band thi stairs climb karna pada,"['UNK', 'UNK', 'HI', 'UNK', 'UNK', 'HI', 'UNK']",/lɪft bənd tʰiː staɪrs klɪmb kərnaː pədə/
+milk expire ho gaya chai nahi bani,negative,milk expire ho gaya chai nahi bani,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'HI', 'UNK']",/mɪlk eːkspɪreː hoː gəjaː tʃaːiː nəhĩː bənɪ/
+tangled earphones untangle karte karte pagal,negative,tangled earphones untangle karte karte pagal,"['EN', 'UNK', 'UNK', 'UNK', 'UNK', 'UNK']",/təŋleːd eːərfoːneːs ʊntəŋleː kərteː kərteː pəgəl/
+important mail spam mein chala gaya missed it,negative,important mail spam mein chala gaya missed it,"['EN', 'UNK', 'UNK', 'HI', 'HI', 'HI', 'EN', 'EN']",/ɪmpɔːrtənt maɪl spəm mẽː tʃəlaː gəjaː mɪsseːd ɪt/
+chai mein zyada cheeni bitter hogaya,negative,chai mein zyada cheeni bitter hogaya,"['HI', 'HI', 'HI', 'HI', 'UNK', 'UNK']",/tʃaːiː mẽː zjaːdaː tʃiːnɪ bɪtteːr hoːgəjə/
+shoe lace toot gaya middle of road,negative,shoe lace toot gaya middle of road,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'UNK']",/ʃoːeː ləkeː tuːt gəjaː mɪddleː oːf roːəd/
+OTP nahi aa raha transaction fail,negative,otp nahi aa raha transaction fail,"['UNK', 'HI', 'HI', 'HI', 'EN', 'UNK']",/oːtp nəhĩː aː rəhaː trənsəktɪoːn faɪl/
+cab book kiya on the way hai,neutral,cab book kya on the way hai,"['UNK', 'HI', 'HI', 'EN', 'HI', 'UNK', 'HI']",/kəb buːk kjaː ɒn tʰeː wəj hɛː/
+washing machine chalu hai clothes done soon,neutral,washing machine chalu hai clothes done soon,"['EN', 'UNK', 'UNK', 'HI', 'UNK', 'EN', 'HI']",/wəʃɪŋ mətʃɪneː tʃəlʊ hɛː kloːtʰeːs dʌn suːn/
+zoom call join karna hai 4 baje,neutral,zoom call join karna hai 4 baje,"['HI', 'EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/zuːm kɔːl dʒɔɪn kərnaː hɛː 4 bədʒeː/
+newspaper padh raha hun morning routine,neutral,newspaper padh raha hun morning routine,"['UNK', 'UNK', 'HI', 'HI', 'EN', 'UNK']",/neːwspəpeːr pədʰ rəhaː hũː moːrnɪŋ raʊtɪneː/
+balcony mein baitha hun evening time,neutral,balcony mein baitha hun evening time,"['UNK', 'HI', 'UNK', 'HI', 'EN', 'HI']",/bəlkoːnj mẽː baɪtʰə hũː eːveːnɪŋ tɪmeː/
+playlist bana raha hun for workout,neutral,playlist bana raha hun for workout,"['UNK', 'UNK', 'HI', 'HI', 'EN', 'UNK']",/pləjlɪst bənə rəhaː hũː fɔːr woːrkaʊt/
+notes type kar raha hun lecture ke,neutral,notes type kar raha hun lecture ke,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'UNK', 'HI']",/noːteːs tjpeː kər rəhaː hũː leːktʊreː keː/
+water bottle refill karni hai empty ho gayi,neutral,water bottle refill karni hai empty ho gayi,"['UNK', 'UNK', 'UNK', 'UNK', 'HI', 'UNK', 'HI', 'HI']",/wəteːr boːttleː reːfɪll kərnɪ hɛː eːmptj hoː gəjiː/
+screen brightness adjust kar raha hun,neutral,screen brightness adjust kar raha hun,"['HI', 'EN', 'UNK', 'HI', 'HI', 'HI']",/skriːn brɪgʰtneːss əddʒʊst kər rəhaː hũː/
+calendar mein event add kiya reminder set,neutral,calendar mein event add kya reminder set,"['UNK', 'HI', 'UNK', 'UNK', 'HI', 'UNK', 'UNK']",/kəleːndər mẽː eːveːnt ədd kjaː reːmɪndeːr seːt/
