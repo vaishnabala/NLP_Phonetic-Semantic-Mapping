@@ -1,0 +1,478 @@
+text,label,normalized,language_tags,phonetic
+yaar ye movie toh bahut amazing thi,positive,yaar ye movie toh bahut amazing thi,"['HI', 'HI', 'EN', 'HI', 'HI', 'EN', 'HI']",/jaːr jeː muːviː toː bəhʊt əmeɪzɪŋ tʰiː/
+finally exam khatam feeling so happy,positive,finally exam khatam feeling so happy,"['EN', 'EN', 'UNK', 'EN', 'EN', 'EN']",/faɪnəliː ɪgzæm xətəm fiːlɪŋ soʊ hæpiː/
+kya amazing food mila loved it,positive,kya amazing food mila loved it,"['HI', 'EN', 'EN', 'HI', 'EN', 'EN']",/kjaː əmeɪzɪŋ fuːd mɪlaː loːveːd ɪt/
+bhai seriously this is the best day,positive,bhai seriously this is the best day,"['HI', 'EN', 'EN', 'EN', 'HI', 'EN', 'EN']",/bʰaːiː seːrɪaʊslj ðɪs ɪz tʰeː best deɪ/
+bahut acha experience tha really enjoyed,positive,bahut acha experience tha really enjoyed,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/bəhʊt ətʃʰaː ɪkspɪərɪəns tʰaː rɪəliː ɪndʒɔɪd/
+mast hai yaar full paisa wasool,positive,mast hai yaar full paisa wasool,"['HI', 'HI', 'HI', 'UNK', 'HI', 'HI']",/məst hɛː jaːr fʊll pɛːsaː wəsuːl/
+itna helpful video thanks a lot,positive,itna helpful video thanks a lot,"['UNK', 'UNK', 'EN', 'EN', 'EN', 'UNK']",/ɪtnə heːlpfʊl vɪdioʊ θæŋks ə loːt/
+finally got my dream job super excited,positive,finally got my dream job super excited,"['EN', 'EN', 'EN', 'UNK', 'EN', 'UNK', 'EN']",/faɪnəliː gɒt maɪ dreːəm dʒɒb sʊpeːr ɪksaɪtɪd/
+ye song toh dil ko touch kar gaya,positive,ye song toh dil ko touch kar gaya,"['HI', 'EN', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'HI']",/jeː sɒŋ toː dɪl koː taʊtʃ kər gəjaː/
+bahut maza aaya is trip mein,positive,bahut maza aaya is trip mein,"['HI', 'UNK', 'HI', 'EN', 'UNK', 'HI']",/bəhʊt məzə aːjaː ɪz trɪp mẽː/
+kya zabardast performance thi loved it,positive,kya zabardast performance thi loved it,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/kjaː zəbərdəst peːrfoːrmənkeː tʰiː loːveːd ɪt/
+aaj ka dinner was absolutely delicious,positive,aaj ka dinner was absolutely delicious,"['HI', 'HI', 'EN', 'EN', 'EN', 'UNK']",/aːdʒ kaː dɪnər wɒz əbsoːlʊteːlj deːlɪkɪaʊs/
+this place is so beautiful yaar,positive,this place is so beautiful yaar,"['EN', 'EN', 'EN', 'EN', 'EN', 'HI']",/ðɪs pleɪs ɪz soʊ bjuːtɪfʊl jaːr/
+finally met my old friends bahut khushi hui,positive,finally met my old friends bahut khushi hui,"['EN', 'UNK', 'EN', 'EN', 'EN', 'HI', 'UNK', 'UNK']",/faɪnəliː meːt maɪ oʊld frendz bəhʊt kʰʊʃɪ hʊɪ/
+what an amazing concert totally worth it,positive,what an amazing concert totally worth it,"['EN', 'EN', 'EN', 'UNK', 'EN', 'UNK', 'EN']",/wɒt æn əmeɪzɪŋ koːnkeːrt toʊtəliː woːrtʰ ɪt/
+bahut acchi news mili aaj great day,positive,bahut acchi news mili aaj great day,"['HI', 'UNK', 'UNK', 'HI', 'HI', 'EN', 'EN']",/bəhʊt əktʃɪ neːws mɪliː aːdʒ greɪt deɪ/
+yaar tere bina life boring thi miss you,positive,yaar tere bina life boring thi miss you,"['HI', 'UNK', 'UNK', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/jaːr teːreː bɪnə lɪfeː boːrɪŋ tʰiː mɪss juː/
+is hotel ki service ekdum first class hai,positive,is hotel ki service ekdum first class hai,"['EN', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'EN', 'HI']",/ɪz hoːteːl kiː sɜːrvɪs eːkdʊm fɪrst klɑːs hɛː/
+mummy ke haath ka khana is the best,positive,mummy ke haath ka khana is the best,"['UNK', 'HI', 'HI', 'HI', 'HI', 'EN', 'HI', 'EN']",/mʊmmj keː haːtʰ kaː kʰaːnaː ɪz tʰeː best/
+finally weekend relaxing at home love it,positive,finally weekend relaxing at home love it,"['EN', 'HI', 'EN', 'EN', 'UNK', 'UNK', 'EN']",/faɪnəliː wiːkeːnd reːləksɪŋ æt hoːmeː loːveː ɪt/
+bhai party was lit bahut maza aaya,positive,bhai party was lit bahut maza aaya,"['HI', 'EN', 'EN', 'UNK', 'HI', 'UNK', 'HI']",/bʰaːiː pɑːrtiː wɒz lɪt bəhʊt məzə aːjaː/
+new phone is awesome features kamaal ke hain,positive,new phone is awesome features kamaal ke hai,"['EN', 'EN', 'EN', 'EN', 'UNK', 'HI', 'HI', 'HI']",/njuː foʊn ɪz ɔːsəm feːətʊreːs kəmaːl keː hɛː/
+teacher ne bahut acche se samjhaya understood everything,positive,teacher ne bahut acche se samjhaya understood everything,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'EN']",/teːətʃeːr neː bəhʊt əktʃeː seː səmdʒʰəjə ʊndeːrstuːd evriːθɪŋ/
+road trip was superb best memories ever,positive,road trip was superb best memories ever,"['UNK', 'UNK', 'EN', 'UNK', 'EN', 'UNK', 'UNK']",/roːəd trɪp wɒz sʊpeːrb best meːmoːrɪeːs eːveːr/
+coffee shop ki ambiance bahut soothing hai,positive,coffee shop ki ambiance bahut soothing hai,"['EN', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'HI']",/kɒfiː ʃoːp kiː əmbɪənkeː bəhʊt suːtʰɪŋ hɛː/
+gym jaana start kiya feeling so energetic,positive,gym jaana start kya feeling so energetic,"['UNK', 'HI', 'EN', 'HI', 'EN', 'EN', 'UNK']",/gjm dʒaːnə stɑːrt kjaː fiːlɪŋ soʊ eːneːrgeːtɪk/
+promotion mil gayi finally hard work paid off,positive,promotion mil gayi finally hard work paid off,"['EN', 'HI', 'HI', 'EN', 'EN', 'EN', 'UNK', 'UNK']",/proːmoːtɪoːn mɪl gəjiː faɪnəliː hɑːrd wɜːrk paɪd oːff/
+sunset dekha beach pe so beautiful,positive,sunset dekha beach pe so beautiful,"['UNK', 'HI', 'UNK', 'HI', 'EN', 'EN']",/sʊnseːt deːkʰaː beːətʃ peː soʊ bjuːtɪfʊl/
+friends ke saath time spend karna is priceless,positive,friends ke saath time spend karna is priceless,"['EN', 'HI', 'HI', 'HI', 'UNK', 'HI', 'EN', 'UNK']",/frendz keː saːtʰ tɪmeː speːnd kərnaː ɪz prɪkeːleːss/
+homemade pizza turned out amazing first attempt,positive,homemade pizza turned out amazing first attempt,"['UNK', 'UNK', 'EN', 'UNK', 'EN', 'UNK', 'UNK']",/hoːmeːmədeː pɪzzə tʊrneːd aʊt əmeɪzɪŋ fɪrst ətteːmpt/
+book bahut interesting thi couldnt put it down,positive,book bahut interesting thi couldnt put it down,"['HI', 'HI', 'EN', 'HI', 'UNK', 'UNK', 'EN', 'UNK']",/buːk bəhʊt ɪntrəstɪŋ tʰiː kaʊldnt pʊt ɪt doːwn/
+morning walk pe gaya fresh feel ho raha,positive,morning walk pe gaya fresh feel ho raha,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'EN', 'HI', 'HI']",/moːrnɪŋ wəlk peː gəjaː freːʃ fiːl hoː rəhaː/
+birthday celebration was perfect thank you all,positive,birthday celebration was perfect thank you all,"['UNK', 'EN', 'EN', 'UNK', 'EN', 'EN', 'UNK']",/bɪrtʰdəj keːleːbrətɪoːn wɒz peːrfeːkt θæŋk juː əll/
+online course bahut informative hai learning a lot,positive,online course bahut informative hai learning a lot,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/oːnlɪneː kaʊrseː bəhʊt ɪnfoːrmətɪveː hɛː leːərnɪŋ ə loːt/
+new haircut looks great feeling confident,positive,new haircut looks great feeling confident,"['EN', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/njuː haɪrkʊt luːks greɪt fiːlɪŋ koːnfɪdeːnt/
+train on time aayi for once happy,positive,train on time aayi for once happy,"['EN', 'EN', 'HI', 'HI', 'EN', 'UNK', 'EN']",/treɪn ɒn tɪmeː aːjɪ fɔːr oːnkeː hæpiː/
+neighbours bahut helpful hain lucky to have them,positive,neighbours bahut helpful hai lucky to have them,"['UNK', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN']",/neːɪgʰbaʊrs bəhʊt heːlpfʊl hɛː lʊkkj toː hæv ðem/
+salary credited finally shopping time,positive,salary credited finally shopping time,"['UNK', 'EN', 'EN', 'EN', 'HI']",/sələrj kreːdɪteːd faɪnəliː ʃoːppɪŋ tɪmeː/
+plants grow ho rahe hain gardening is therapeutic,positive,plants grow ho rahe hai gardening is therapeutic,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'EN', 'EN', 'UNK']",/plənts groːw hoː rəheː hɛː gərdeːnɪŋ ɪz tʰeːrəpeːʊtɪk/
+childhood friend se mila after years emotional moment,positive,childhood friend se mila after years emotional moment,"['HI', 'EN', 'HI', 'HI', 'EN', 'UNK', 'UNK', 'EN']",/tʃɪldʰuːd frend seː mɪlaː ɑːftər jeːərs eːmoːtɪoːnəl moːmeːnt/
+interview accha gaya confident about results,positive,interview acha gaya confident about results,"['UNK', 'HI', 'HI', 'UNK', 'EN', 'UNK']",/ɪnteːrvɪeːw ətʃʰaː gəjaː koːnfɪdeːnt əbaʊt reːsʊlts/
+home renovation complete looks beautiful now,positive,home renovation complete looks beautiful now,"['UNK', 'EN', 'UNK', 'HI', 'EN', 'EN']",/hoːmeː reːnoːvətɪoːn koːmpleːteː luːks bjuːtɪfʊl naʊ/
+diet follow kar raha seeing results already,positive,diet follow kar raha seeing results already,"['UNK', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'EN']",/dɪeːt foːlloːw kər rəhaː siːɪŋ reːsʊlts ɔːlrediː/
+meditation start kiya feeling peaceful,positive,meditation start kya feeling peaceful,"['EN', 'EN', 'HI', 'EN', 'UNK']",/meːdɪtətɪoːn stɑːrt kjaː fiːlɪŋ peːəkeːfʊl/
+surprise party for mom she was so happy,positive,surprise party for mom she was so happy,"['UNK', 'EN', 'EN', 'EN', 'EN', 'EN', 'EN', 'EN']",/sʊrprɪseː pɑːrtiː fɔːr mɒm ʃiː wɒz soʊ hæpiː/
+college memories yaad aa gayi good old days,positive,college memories yaad aa gayi good old days,"['EN', 'UNK', 'HI', 'HI', 'HI', 'EN', 'EN', 'UNK']",/kɒlɪdʒ meːmoːrɪeːs jaːd aː gəjiː gʊd oʊld dəjs/
+cooking experiment successful family loved it,positive,cooking experiment successful family loved it,"['EN', 'EN', 'UNK', 'EN', 'EN', 'EN']",/kuːkɪŋ eːkspeːrɪmeːnt sʊkkeːssfʊl fæmɪliː loːveːd ɪt/
+long drive pe gaye weather perfect tha,positive,long drive pe gaye weather perfect tha,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI']",/lɒŋ drɪveː peː gəjeː weːətʰeːr peːrfeːkt tʰaː/
+yoga class joined feeling flexible already,positive,yoga class joined feeling flexible already,"['UNK', 'EN', 'EN', 'EN', 'EN', 'EN']",/joːgə klɑːs dʒɔɪneːd fiːlɪŋ fleːksɪbleː ɔːlrediː/
+documentary dekhi very inspiring must watch,positive,documentary dekhi very inspiring must watch,"['UNK', 'HI', 'EN', 'EN', 'UNK', 'EN']",/doːkʊmeːntərj deːkʰɪ veriː ɪnspɪrɪŋ mʊst wɒtʃ/
+kya bakwas service hai totally disappointed,negative,kya bakwas service hai totally disappointed,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/kjaː bəkvaːs sɜːrvɪs hɛː toʊtəliː dɪsəpɔɪntɪd/
+bahut boring day tha nothing happened,negative,bahut boring day tha nothing happened,"['HI', 'HI', 'EN', 'HI', 'EN', 'EN']",/bəhʊt boːrɪŋ deɪ tʰaː nʌθɪŋ hæpənd/
+ye movie complete waste of time thi,negative,ye movie complete waste of time thi,"['HI', 'EN', 'UNK', 'UNK', 'UNK', 'HI', 'HI']",/jeː muːviː koːmpleːteː wəsteː oːf tɪmeː tʰiː/
+traffic mein stuck hun bahut frustrating,negative,traffic mein stuck hun bahut frustrating,"['EN', 'HI', 'UNK', 'HI', 'HI', 'EN']",/træfɪk mẽː stʌk hũː bəhʊt frʌstreɪtɪŋ/
+kya ghatiya quality hai is product ki,negative,kya ghatiya quality hai is product ki,"['HI', 'UNK', 'UNK', 'HI', 'EN', 'UNK', 'HI']",/kjaː gʰətɪjə kʊəlɪtj hɛː ɪz proːdʊkt kiː/
+bahut bura experience tha never going back,negative,bahut bura experience tha never going back,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/bəhʊt bʊraː ɪkspɪərɪəns tʰaː nevər goʊɪŋ bæk/
+itna wait karaya for nothing terrible,negative,itna wait karaya for nothing terrible,"['UNK', 'UNK', 'UNK', 'EN', 'EN', 'EN']",/ɪtnə weɪt kərəjə fɔːr nʌθɪŋ teːrrɪbleː/
+ye food toh bekaar tha completely tasteless,negative,ye food toh bekaar tha completely tasteless,"['HI', 'EN', 'HI', 'HI', 'HI', 'EN', 'UNK']",/jeː fuːd toː beːkaːr tʰaː kəmpliːtliː təsteːleːss/
+aaj bahut sad feeling hai kuch acha nahi hua,negative,aaj bahut sad feeling hai kuch acha nahi hua,"['HI', 'HI', 'EN', 'EN', 'HI', 'HI', 'HI', 'HI', 'UNK']",/aːdʒ bəhʊt sæd fiːlɪŋ hɛː kʊtʃ ətʃʰaː nəhĩː hʊə/
+worst customer service ever gussa aa raha hai,negative,worst customer service ever gussa aa raha hai,"['EN', 'UNK', 'UNK', 'UNK', 'UNK', 'HI', 'HI', 'HI']",/wɜːrst kʊstoːmeːr sɜːrvɪs eːveːr gʊssə aː rəhaː hɛː/
+is jagah pe mat jana total fraud hai,negative,is jagah pe mat jana total fraud hai,"['EN', 'UNK', 'HI', 'HI', 'HI', 'UNK', 'UNK', 'HI']",/ɪz dʒəgəh peː mət dʒaːnaː toːtəl fraʊd hɛː/
+pagal kar diya inhone with their nonsense,negative,pagal kar diya inhone with their nonsense,"['UNK', 'HI', 'HI', 'UNK', 'EN', 'EN', 'UNK']",/pəgəl kər dɪjaː ɪnhoːneː wɪð ðeər noːnseːnseː/
+bahut disappointing match tha should have won,negative,bahut disappointing match tha should have won,"['HI', 'EN', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/bəhʊt dɪsəppɔɪntɪŋ məttʃ tʰaː ʃaʊld hæv woːn/
+ye plan toh fail ho gaya complete waste,negative,ye plan toh fail ho gaya complete waste,"['HI', 'EN', 'HI', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/jeː plæn toː faɪl hoː gəjaː koːmpleːteː wəsteː/
+kya torture hai yaar unbearable situation,negative,kya torture hai yaar unbearable situation,"['HI', 'UNK', 'HI', 'HI', 'EN', 'EN']",/kjaː toːrtʊreː hɛː jaːr ʊnbeːərəbleː sɪtʊətɪoːn/
+headache ho raha hai badly need rest,negative,headache ho raha hai badly need rest,"['UNK', 'HI', 'HI', 'HI', 'EN', 'EN', 'UNK']",/heːədətʃeː hoː rəhaː hɛː bədlj niːd reːst/
+phone hang ho raha hai irritating bahut,negative,phone hang ho raha hai irritating bahut,"['EN', 'UNK', 'HI', 'HI', 'HI', 'EN', 'HI']",/foʊn həŋ hoː rəhaː hɛː ɪrrɪtətɪŋ bəhʊt/
+order late aaya cold food mila useless,negative,order late aaya cold food mila useless,"['UNK', 'EN', 'HI', 'UNK', 'EN', 'HI', 'UNK']",/oːrdeːr leɪt aːjaː koːld fuːd mɪlaː ʊseːleːss/
+exam bahut tough tha not prepared enough,negative,exam bahut tough tha not prepared enough,"['EN', 'HI', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/ɪgzæm bəhʊt taʊgʰ tʰaː noːt preːpəreːd eːnaʊgʰ/
+boss ne daanta for no reason feeling low,negative,boss ne daanta for no reason feeling low,"['UNK', 'UNK', 'HI', 'EN', 'EN', 'UNK', 'EN', 'UNK']",/boːss neː daːntə fɔːr noʊ reːəsoːn fiːlɪŋ loːw/
+wifi not working cant do anything frustrated,negative,wifi not working cant do anything frustrated,"['UNK', 'UNK', 'EN', 'UNK', 'HI', 'EN', 'EN']",/wɪfɪ noːt wɜːrkɪŋ kənt doː ənjtʰɪŋ frʊstrəteːd/
+rain mein bhig gaya feeling sick now,negative,rain mein bhig gaya feeling sick now,"['UNK', 'HI', 'UNK', 'HI', 'EN', 'UNK', 'EN']",/raɪn mẽː bʰɪg gəjaː fiːlɪŋ sɪkk naʊ/
+movie spoiler mil gaya ruined everything,negative,movie spoiler mil gaya ruined everything,"['EN', 'UNK', 'HI', 'HI', 'EN', 'EN']",/muːviː spɔɪleːr mɪl gəjaː rʊɪneːd evriːθɪŋ/
+alarm nahi baja late ho gaya bad start,negative,alarm nahi baja late ho gaya bad start,"['UNK', 'HI', 'UNK', 'EN', 'HI', 'HI', 'EN', 'EN']",/ələrm nəhĩː bədʒə leɪt hoː gəjaː bæd stɑːrt/
+friend ne cancel kiya last minute annoying,negative,friend ne cancel kya last minute annoying,"['EN', 'UNK', 'UNK', 'HI', 'UNK', 'UNK', 'EN']",/frend neː kənkeːl kjaː ləst mɪnʊteː ənɔɪɪŋ/
+ac kharab ho gaya itni garmi mein terrible,negative,ac kharab ho gaya itni garmi mein terrible,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI', 'EN']",/ək kʰərəb hoː gəjaː ɪtnɪ gərmɪ mẽː teːrrɪbleː/
+paise waste ho gaye useless product,negative,paise waste ho gaye useless product,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/paɪseː wəsteː hoː gəjeː ʊseːleːss proːdʊkt/
+sleep nahi aayi raat bhar tired feeling,negative,sleep nahi aayi raat bhar tired feeling,"['HI', 'HI', 'HI', 'HI', 'UNK', 'EN', 'EN']",/sliːp nəhĩː aːjɪ raːt bʰər taɪərd fiːlɪŋ/
+car breakdown ho gayi middle of nowhere worst,negative,car breakdown ho gayi middle of nowhere worst,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'UNK', 'EN']",/kɑːr breːəkdoːwn hoː gəjiː mɪddleː oːf noːwheːreː wɜːrst/
+fake product mila online shopping se cheated,negative,fake product mila online shopping se cheated,"['EN', 'UNK', 'HI', 'UNK', 'EN', 'HI', 'EN']",/fəkeː proːdʊkt mɪlaː oːnlɪneː ʃoːppɪŋ seː tʃeːəteːd/
+presentation mess ho gayi embarrassing moment,negative,presentation mess ho gayi embarrassing moment,"['EN', 'UNK', 'HI', 'HI', 'EN', 'EN']",/prezənteɪʃən meːss hoː gəjiː eːmbərrəssɪŋ moːmeːnt/
+flight delayed by hours wasted whole day,negative,flight delayed by hours wasted whole day,"['EN', 'EN', 'EN', 'UNK', 'EN', 'UNK', 'EN']",/flaɪt deːləjeːd baɪ haʊrs wəsteːd whoːleː deɪ/
+hotel room dirty tha pathetic condition,negative,hotel room dirty tha pathetic condition,"['UNK', 'HI', 'UNK', 'HI', 'UNK', 'EN']",/hoːteːl ruːm dɪrtj tʰaː pətʰeːtɪk koːndɪtɪoːn/
+food poisoning ho gaya horrible experience,negative,food poisoning ho gaya horrible experience,"['EN', 'EN', 'HI', 'HI', 'EN', 'UNK']",/fuːd pɔɪsoːnɪŋ hoː gəjaː hoːrrɪbleː ɪkspɪərɪəns/
+keys kho gayi locked out of house,negative,keys kho gayi locked out of house,"['UNK', 'UNK', 'HI', 'EN', 'UNK', 'UNK', 'UNK']",/keːjs kʰoː gəjiː loːkkeːd aʊt oːf haʊseː/
+phone screen crack ho gayi expensive repair,negative,phone screen crack ho gayi expensive repair,"['EN', 'HI', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/foʊn skriːn krəkk hoː gəjiː eːkspeːnsɪveː reːpaɪr/
+gym band ho gaya membership waste,negative,gym band ho gaya membership waste,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/gjm bənd hoː gəjaː meːmbeːrʃɪp wəsteː/
+rude behaviour mila shop pe never again,negative,rude behaviour mila shop pe never again,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN']",/rʊdeː beːhəvɪaʊr mɪlaː ʃoːp peː nevər əgen/
+project reject ho gaya months of work gone,negative,project reject ho gaya months of work gone,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'EN', 'EN']",/prɒdʒekt reːdʒeːkt hoː gəjaː moːntʰs oːf wɜːrk gɒn/
+parking nahi mili drove around for hours,negative,parking nahi mili drove around for hours,"['EN', 'HI', 'HI', 'UNK', 'UNK', 'EN', 'UNK']",/pərkɪŋ nəhĩː mɪliː droːveː əraʊnd fɔːr haʊrs/
+mosquitoes ne sota nahi diya whole night,negative,mosquitoes ne sota nahi diya whole night,"['UNK', 'UNK', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/moːskʊɪtoːeːs neː soːtə nəhĩː dɪjaː whoːleː naɪt/
+printer jam ho gaya deadline miss hone wali,negative,printer jam ho gaya deadline miss hone wali,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'UNK', 'UNK']",/prɪnteːr dʒəm hoː gəjaː deːədlɪneː mɪss hoːneː wəlɪ/
+wrong order deliver hua return process tedious,negative,wrong order deliver hua return process tedious,"['EN', 'UNK', 'UNK', 'UNK', 'UNK', 'UNK', 'UNK']",/wroːŋ oːrdeːr deːlɪveːr hʊə reːtʊrn proːkeːss teːdɪaʊs/
+laptop hang ho gaya data save nahi hua,negative,laptop hang ho gaya data save nahi hua,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI', 'UNK']",/ləptoːp həŋ hoː gəjaː dətə səveː nəhĩː hʊə/
+noise bahut hai neighbours se cant concentrate,negative,noise bahut hai neighbours se cant concentrate,"['UNK', 'HI', 'HI', 'UNK', 'HI', 'UNK', 'UNK']",/nɔɪseː bəhʊt hɛː neːɪgʰbaʊrs seː kənt koːnkeːntrəteː/
+cold lag gayi medicine le raha feeling weak,negative,cold lag gayi medicine le raha feeling weak,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'HI', 'EN', 'UNK']",/koːld ləg gəjiː meːdɪkɪneː leː rəhaː fiːlɪŋ weːək/
+bus miss ho gayi next one after 1 hour,negative,bus miss ho gayi next one after 1 hour,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'EN', 'UNK', 'UNK']",/bʌs mɪss hoː gəjiː neːkst oːneː ɑːftər 1 haʊr/
+atm out of cash had to walk far,negative,atm out of cash had to walk far,"['UNK', 'UNK', 'UNK', 'UNK', 'EN', 'HI', 'UNK', 'UNK']",/ətm aʊt oːf kəʃ hæd toː wəlk fər/
+charger kharab ho gaya phone dead now,negative,charger kharab ho gaya phone dead now,"['UNK', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'EN']",/tʃərgeːr kʰərəb hoː gəjaː foʊn deːəd naʊ/
+meeting boring thi waste of 2 hours,negative,meeting boring thi waste of 2 hours,"['EN', 'HI', 'HI', 'UNK', 'UNK', 'UNK', 'UNK']",/miːtɪŋ boːrɪŋ tʰiː wəsteː oːf 2 haʊrs/
+chai peene chalein kya after meeting,neutral,chai peene chalein kya after meeting,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/tʃaːiː piːneː tʃəlẽː kjaː ɑːftər miːtɪŋ/
+aaj monday hai back to work,neutral,aaj monday hai back to work,"['HI', 'UNK', 'HI', 'UNK', 'HI', 'EN']",/aːdʒ mənɖeː hɛː bæk toː wɜːrk/
+office mein hun abhi will call later,neutral,office mein hun abhi will call later,"['EN', 'HI', 'HI', 'HI', 'UNK', 'EN', 'UNK']",/ɒfɪs mẽː hũː əbʰiː wɪl kɔːl leɪtər/
+kal movie dekhne jayenge shayad,neutral,kal movie dekhne jayenge shayad,"['HI', 'EN', 'UNK', 'UNK', 'HI']",/kəl muːviː deːkʰneː dʒəjeːŋeː ʃaːjəd/
+meeting 3 baje hai dont forget,neutral,meeting 3 baje hai dont forget,"['EN', 'UNK', 'UNK', 'HI', 'UNK', 'UNK']",/miːtɪŋ 3 bədʒeː hɛː doːnt foːrgeːt/
+ghar pahunch gaya just reached home,neutral,ghar pahunch gaya just reached home,"['HI', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/gʰər pəhʊntʃ gəjaː dʒʌst reːətʃeːd hoːmeː/
+kya plan hai weekend ka let me know,neutral,kya plan hai weekend ka let mein know,"['HI', 'EN', 'HI', 'HI', 'HI', 'UNK', 'HI', 'EN']",/kjaː plæn hɛː wiːkeːnd kaː leːt mẽː noʊ/
+abhi lunch break mein hun will reply,neutral,abhi lunch break mein hun will reply,"['HI', 'EN', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/əbʰiː lʌntʃ breːək mẽː hũː wɪl reːplj/
+train late hai as usual nothing new,neutral,train late hai as usual nothing new,"['EN', 'EN', 'HI', 'UNK', 'UNK', 'EN', 'EN']",/treɪn leɪt hɛː əs ʊsʊəl nʌθɪŋ njuː/
+kal se gym shuru karna hai planning,neutral,kal se gym shuru karna hai planning,"['HI', 'HI', 'UNK', 'UNK', 'HI', 'HI', 'EN']",/kəl seː gjm ʃʊrʊ kərnaː hɛː plənnɪŋ/
+ye book padh raha hun these days,neutral,ye book padh raha hun these days,"['HI', 'HI', 'UNK', 'HI', 'HI', 'EN', 'UNK']",/jeː buːk pədʰ rəhaː hũː ðiːz dəjs/
+market jaana hai evening mein shopping,neutral,market jaana hai evening mein shopping,"['UNK', 'HI', 'HI', 'EN', 'HI', 'EN']",/mərkeːt dʒaːnə hɛː eːveːnɪŋ mẽː ʃoːppɪŋ/
+friends ke saath dinner tonight at 8,neutral,friends ke saath dinner tonight at 8,"['EN', 'HI', 'HI', 'EN', 'UNK', 'EN', 'UNK']",/frendz keː saːtʰ dɪnər toːnɪgʰt æt 8/
+next week leave lena hai for travel,neutral,next week leave lena hai for travel,"['UNK', 'EN', 'EN', 'HI', 'HI', 'EN', 'UNK']",/neːkst wiːk leːəveː leːnaː hɛː fɔːr trəveːl/
+project deadline is friday need to finish,neutral,project deadline is friday need to finish,"['EN', 'UNK', 'EN', 'UNK', 'EN', 'HI', 'UNK']",/prɒdʒekt deːədlɪneː ɪz frɪdəj niːd toː fɪnɪʃ/
+bhai tu kaisa hai long time no talk,neutral,bhai tu kaisa hai long time no talk,"['HI', 'HI', 'HI', 'HI', 'EN', 'HI', 'EN', 'UNK']",/bʰaːiː tuː kɛːsaː hɛː lɒŋ tɪmeː noʊ təlk/
+amazon se order kiya tha waiting delivery,neutral,amazon se order kya tha waiting delivery,"['UNK', 'HI', 'UNK', 'HI', 'HI', 'EN', 'UNK']",/əməzoːn seː oːrdeːr kjaː tʰaː weɪtɪŋ deːlɪveːrj/
+kal interview hai preparing for it,neutral,kal interview hai preparing for it,"['HI', 'UNK', 'HI', 'EN', 'EN', 'EN']",/kəl ɪnteːrvɪeːw hɛː preːpərɪŋ fɔːr ɪt/
+sunday ko party hai at my place,neutral,sunday ko party hai at my place,"['UNK', 'HI', 'EN', 'HI', 'EN', 'EN', 'EN']",/sʊndəj koː pɑːrtiː hɛː æt maɪ pleɪs/
+new series start ki hai watching slowly,neutral,new series start ki hai watching slowly,"['EN', 'UNK', 'EN', 'HI', 'HI', 'EN', 'EN']",/njuː seːrɪeːs stɑːrt kiː hɛː wɒtʃɪŋ sloːwlj/
+doctor appointment hai 5 baje,neutral,doctor appointment hai 5 baje,"['UNK', 'EN', 'HI', 'UNK', 'UNK']",/doːktoːr əppɔɪntmeːnt hɛː 5 bədʒeː/
+rent pay karna hai end of month,neutral,rent pay karna hai end of month,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'EN']",/reːnt pəj kərnaː hɛː eːnd oːf mʌnθ/
+grocery shopping karna hai list ready,neutral,grocery shopping karna hai list ready,"['UNK', 'EN', 'HI', 'HI', 'UNK', 'UNK']",/groːkeːrj ʃoːppɪŋ kərnaː hɛː lɪst reːədj/
+laundry karna hai weekend pe,neutral,laundry karna hai weekend pe,"['UNK', 'HI', 'HI', 'HI', 'HI']",/laʊndrj kərnaː hɛː wiːkeːnd peː/
+call karna hai parents ko evening mein,neutral,call karna hai parents ko evening mein,"['EN', 'HI', 'HI', 'UNK', 'HI', 'EN', 'HI']",/kɔːl kərnaː hɛː pəreːnts koː eːveːnɪŋ mẽː/
+presentation banana hai for tomorrow,neutral,presentation banana hai for tomorrow,"['EN', 'UNK', 'HI', 'EN', 'EN']",/prezənteɪʃən bənənə hɛː fɔːr təmɒroʊ/
+bike service ke liye jaana hai,neutral,bike service ke liye jaana hai,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'HI']",/bɪkeː sɜːrvɪs keː lɪjeː dʒaːnə hɛː/
+electricity bill pay karna hai online,neutral,electricity bill pay karna hai online,"['UNK', 'UNK', 'UNK', 'HI', 'HI', 'UNK']",/eːleːktrɪkɪtj bɪll pəj kərnaː hɛː oːnlɪneː/
+haircut karana hai bahut badh gaye,neutral,haircut karana hai bahut badh gaye,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'HI']",/haɪrkʊt kərənə hɛː bəhʊt bədʰ gəjeː/
+meeting reschedule ho gayi to wednesday,neutral,meeting reschedule ho gayi to wednesday,"['EN', 'UNK', 'HI', 'HI', 'HI', 'UNK']",/miːtɪŋ reːstʃeːdʊleː hoː gəjiː toː weːdneːsdəj/
+parcel aane wala hai tracking shows nearby,neutral,parcel aane wala hai tracking shows nearby,"['UNK', 'HI', 'UNK', 'HI', 'EN', 'UNK', 'UNK']",/pərkeːl aːneː wələ hɛː trəkkɪŋ ʃoːws neːərbj/
+lunch mein kya khaya tell me,neutral,lunch mein kya khaya tell mein,"['EN', 'HI', 'HI', 'HI', 'EN', 'HI']",/lʌntʃ mẽː kjaː kʰəjə teːll mẽː/
+office se nikla traffic dekh ke batata hun,neutral,office se nikla traffic dekh ke batata hun,"['EN', 'HI', 'UNK', 'EN', 'HI', 'HI', 'UNK', 'HI']",/ɒfɪs seː nɪklə træfɪk deːkʰ keː bətətə hũː/
+abhi gym mein hun call back later,neutral,abhi gym mein hun call back later,"['HI', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'UNK']",/əbʰiː gjm mẽː hũː kɔːl bæk leɪtər/
+movie 7 baje start hai reach by 6:45,neutral,movie 7 baje start hai reach by 6:45,"['EN', 'UNK', 'UNK', 'EN', 'HI', 'UNK', 'EN', 'UNK']",/muːviː 7 bədʒeː stɑːrt hɛː reːətʃ baɪ 6:45/
+sharma ji ka beta abroad ja raha,neutral,sharma ji ka beta abroad ja raha,"['UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI', 'HI']",/ʃərmə dʒiː kaː beːtə əbroːəd dʒaː rəhaː/
+new restaurant khula hai near office,neutral,new restaurant khula hai near office,"['EN', 'UNK', 'UNK', 'HI', 'UNK', 'EN']",/njuː reːstaʊrənt kʰʊlə hɛː neːər ɒfɪs/
+metro se ja raha hun will take time,neutral,metro se ja raha hun will take time,"['UNK', 'HI', 'HI', 'HI', 'HI', 'UNK', 'UNK', 'HI']",/meːtroː seː dʒaː rəhaː hũː wɪl təkeː tɪmeː/
+parking mil gayi coming up now,neutral,parking mil gayi coming up now,"['EN', 'HI', 'HI', 'EN', 'UNK', 'EN']",/pərkɪŋ mɪl gəjiː kʌmɪŋ ʊp naʊ/
+battery low hai phone ki charge karna hai,neutral,battery low hai phone ki charge karna hai,"['UNK', 'UNK', 'HI', 'EN', 'HI', 'UNK', 'HI', 'HI']",/bətteːrj loːw hɛː foʊn kiː tʃərgeː kərnaː hɛː/
+weather cloudy hai might rain later,neutral,weather cloudy hai might rain later,"['UNK', 'UNK', 'HI', 'UNK', 'UNK', 'UNK']",/weːətʰeːr klaʊdj hɛː mɪgʰt raɪn leɪtər/
+sale lagi hai online checking deals,neutral,sale lagi hai online checking deals,"['UNK', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/səleː ləgɪ hɛː oːnlɪneː tʃeːkkɪŋ deːəls/
+cousin ki shaadi hai next month,neutral,cousin ki shaadi hai next month,"['UNK', 'HI', 'HI', 'HI', 'UNK', 'EN']",/kaʊsɪn kiː ʃaːdɪ hɛː neːkst mʌnθ/
+exam results aane wale hain waiting,neutral,exam results aane wale hai waiting,"['EN', 'UNK', 'HI', 'UNK', 'HI', 'EN']",/ɪgzæm reːsʊlts aːneː wəleː hɛː weɪtɪŋ/
+password bhul gaya reset karna padega,neutral,password bhul gaya reset karna padega,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'UNK']",/pəsswoːrd bʰʊl gəjaː reːseːt kərnaː pədeːgə/
+update install ho raha hai system pe,neutral,update install ho raha hai system pe,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'UNK', 'HI']",/ʊpdəteː ɪnstəll hoː rəhaː hɛː sjsteːm peː/
+file send kar di check your email,neutral,file send kar di check your email,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'EN', 'UNK']",/fɪleː seːnd kər dɪ tʃeːkk jɔːr eːmaɪl/
+location share karta hun maps pe,neutral,location share karta hun maps pe,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'HI']",/loːkətɪoːn ʃəreː kərtaː hũː məps peː/
+table book karni hai for 4 people,neutral,table book karni hai for 4 people,"['EN', 'HI', 'UNK', 'HI', 'EN', 'UNK', 'UNK']",/təbleː buːk kərnɪ hɛː fɔːr 4 peːoːpleː/
+swimming class join karni hai summer mein,neutral,swimming class join karni hai summer mein,"['EN', 'EN', 'UNK', 'UNK', 'HI', 'UNK', 'HI']",/swɪmmɪŋ klɑːs dʒɔɪn kərnɪ hɛː sʊmmeːr mẽː/
+yaar ye film toh bahut fantastic thi,positive,yaar ye film toh bahut fantastic thi,"['HI', 'HI', 'EN', 'HI', 'HI', 'EN', 'HI']",/jaːr jeː fɪlm toː bəhʊt fæntæstɪk tʰiː/
+yaar ye movie toh bahut thi,positive,yaar ye movie toh bahut thi,"['HI', 'HI', 'EN', 'HI', 'HI', 'HI']",/jaːr jeː muːviː toː bəhʊt tʰiː/
+finally exam khatam so feeling happy,positive,finally exam khatam so feeling happy,"['EN', 'EN', 'UNK', 'EN', 'EN', 'EN']",/faɪnəliː ɪgzæm xətəm soʊ fiːlɪŋ hæpiː/
+exam so happy,positive,exam so happy,"['EN', 'EN', 'EN']",/ɪgzæm soʊ hæpiː/
+exam feeling so happy,positive,exam feeling so happy,"['EN', 'EN', 'EN', 'EN']",/ɪgzæm fiːlɪŋ soʊ hæpiː/
+amazing kya food mila loved it,positive,amazing kya food mila loved it,"['EN', 'HI', 'EN', 'HI', 'EN', 'EN']",/əmeɪzɪŋ kjaː fuːd mɪlaː loːveːd ɪt/
+kya amazing mila food loved it,positive,kya amazing mila food loved it,"['HI', 'EN', 'HI', 'EN', 'EN', 'EN']",/kjaː əmeɪzɪŋ mɪlaː fuːd loːveːd ɪt/
+kya amazing food mila it loved,positive,kya amazing food mila it loved,"['HI', 'EN', 'EN', 'HI', 'EN', 'EN']",/kjaː əmeɪzɪŋ fuːd mɪlaː ɪt loːveːd/
+dost seriously this is the greatest day,positive,dost seriously this is the greatest day,"['HI', 'EN', 'EN', 'EN', 'HI', 'UNK', 'EN']",/doːst seːrɪaʊslj ðɪs ɪz tʰeː greːəteːst deɪ/
+seriously bhai this is the best day,positive,seriously bhai this is the best day,"['EN', 'HI', 'EN', 'EN', 'HI', 'EN', 'EN']",/seːrɪaʊslj bʰaːiː ðɪs ɪz tʰeː best deɪ/
+bhut achha experience tha really enjoyed,positive,bahut acha experience tha really enjoyed,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/bəhʊt ətʃʰaː ɪkspɪərɪəns tʰaː rɪəliː ɪndʒɔɪd/
+really acha experience thaa really enjoyed,positive,really acha experience tha really enjoyed,"['EN', 'HI', 'UNK', 'HI', 'EN', 'EN']",/rɪəliː ətʃʰaː ɪkspɪərɪəns tʰaː rɪəliː ɪndʒɔɪd/
+mast yaar hai full paisa wasool,positive,mast yaar hai full paisa wasool,"['HI', 'HI', 'HI', 'UNK', 'HI', 'HI']",/məst jaːr hɛː fʊll pɛːsaː wəsuːl/
+mast hai yr full paisa wasool,positive,mast hai yaar full paisa wasool,"['HI', 'HI', 'HI', 'UNK', 'HI', 'HI']",/məst hɛː jaːr fʊll pɛːsaː wəsuːl/
+helpful thanks a lot,positive,helpful thanks a lot,"['UNK', 'EN', 'EN', 'UNK']",/heːlpfʊl θæŋks ə loːt/
+finally got my dream job excited super,positive,finally got my dream job excited super,"['EN', 'EN', 'EN', 'UNK', 'EN', 'EN', 'UNK']",/faɪnəliː gɒt maɪ dreːəm dʒɒb ɪksaɪtɪd sʊpeːr/
+finally got my dream job excited super,positive,finally got my dream job excited super,"['EN', 'EN', 'EN', 'UNK', 'EN', 'EN', 'UNK']",/faɪnəliː gɒt maɪ dreːəm dʒɒb ɪksaɪtɪd sʊpeːr/
+ye song toh dil ko touch gaya kar,positive,ye song toh dil ko touch gaya kar,"['HI', 'EN', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'HI']",/jeː sɒŋ toː dɪl koː taʊtʃ gəjaː kər/
+ye song toh dil ko touch gaya kar,positive,ye song toh dil ko touch gaya kar,"['HI', 'EN', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'HI']",/jeː sɒŋ toː dɪl koː taʊtʃ gəjaː kər/
+ye song toh dil ko touch kar gayaa,positive,ye song toh dil ko touch kar gayaa,"['HI', 'EN', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'HI']",/jeː sɒŋ toː dɪl koː taʊtʃ kər gəjaː/
+bahut maza is trip mein,positive,bahut maza is trip mein,"['HI', 'UNK', 'EN', 'UNK', 'HI']",/bəhʊt məzə ɪz trɪp mẽː/
+kaafi maza aaya is trip mein,positive,kaafi maza aaya is trip mein,"['HI', 'UNK', 'HI', 'EN', 'UNK', 'HI']",/kaːfɪ məzə aːjaː ɪz trɪp mẽː/
+bahut aaya trip mein,positive,bahut aaya trip mein,"['HI', 'HI', 'UNK', 'HI']",/bəhʊt aːjaː trɪp mẽː/
+kia zabardast performance loved was it,positive,kya zabardast performance loved was it,"['HI', 'HI', 'UNK', 'EN', 'EN', 'EN']",/kjaː zəbərdəst peːrfoːrmənkeː loːveːd wɒz ɪt/
+aaj dinner absolutely was,positive,aaj dinner absolutely was,"['HI', 'EN', 'EN', 'EN']",/aːdʒ dɪnər əbsoːlʊteːlj wɒz/
+this place is so beautiful yar,positive,this place is so beautiful yaar,"['EN', 'EN', 'EN', 'EN', 'EN', 'HI']",/ðɪs pleɪs ɪz soʊ bjuːtɪfʊl jaːr/
+place this is so beautiful yaar,positive,place this is so beautiful yaar,"['EN', 'EN', 'EN', 'EN', 'EN', 'HI']",/pleɪs ðɪs ɪz soʊ bjuːtɪfʊl jaːr/
+finally met my old friends kaafi khushi hui,positive,finally met my old friends kaafi khushi hui,"['EN', 'UNK', 'EN', 'EN', 'EN', 'HI', 'UNK', 'UNK']",/faɪnəliː meːt maɪ oʊld frendz kaːfɪ kʰʊʃɪ hʊɪ/
+finally met my friends old bahut khushi hui,positive,finally met my friends old bahut khushi hui,"['EN', 'UNK', 'EN', 'EN', 'EN', 'HI', 'UNK', 'UNK']",/faɪnəliː meːt maɪ frendz oʊld bəhʊt kʰʊʃɪ hʊɪ/
+finally met my old friends kaafi khushi hui,positive,finally met my old friends kaafi khushi hui,"['EN', 'UNK', 'EN', 'EN', 'EN', 'HI', 'UNK', 'UNK']",/faɪnəliː meːt maɪ oʊld frendz kaːfɪ kʰʊʃɪ hʊɪ/
+an amazing concert totally it,positive,an amazing concert totally it,"['EN', 'EN', 'UNK', 'EN', 'EN']",/æn əmeɪzɪŋ koːnkeːrt toʊtəliː ɪt/
+what an awesome concert totally worth it,positive,what an awesome concert totally worth it,"['EN', 'EN', 'EN', 'UNK', 'EN', 'UNK', 'EN']",/wɒt æn ɔːsəm koːnkeːrt toʊtəliː woːrtʰ ɪt/
+bahut news mili aaj,positive,bahut news mili aaj,"['HI', 'UNK', 'HI', 'HI']",/bəhʊt neːws mɪliː aːdʒ/
+bahut news acchi mili aaj great day,positive,bahut news acchi mili aaj great day,"['HI', 'UNK', 'UNK', 'HI', 'HI', 'EN', 'EN']",/bəhʊt neːws əktʃɪ mɪliː aːdʒ greɪt deɪ/
+dost tere bina life was boring miss you,positive,dost tere bina life was boring miss you,"['HI', 'UNK', 'UNK', 'UNK', 'EN', 'HI', 'UNK', 'EN']",/doːst teːreː bɪnə lɪfeː wɒz boːrɪŋ mɪss juː/
+yaar tere bina life thi boring miss you,positive,yaar tere bina life thi boring miss you,"['HI', 'UNK', 'UNK', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/jaːr teːreː bɪnə lɪfeː tʰiː boːrɪŋ mɪss juː/
+yaar tere bina life thi miss you,positive,yaar tere bina life thi miss you,"['HI', 'UNK', 'UNK', 'UNK', 'HI', 'UNK', 'EN']",/jaːr teːreː bɪnə lɪfeː tʰiː mɪss juː/
+is hotel ki service ekdum first class hain,positive,is hotel ki service ekdum first class hai,"['EN', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'EN', 'HI']",/ɪz hoːteːl kiː sɜːrvɪs eːkdʊm fɪrst klɑːs hɛː/
+is hotel ki service ekdum first class is,positive,is hotel ki service ekdum first class is,"['EN', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'EN', 'EN']",/ɪz hoːteːl kiː sɜːrvɪs eːkdʊm fɪrst klɑːs ɪz/
+is hotel ki service ekdum first class he,positive,is hotel ki service ekdum first class hai,"['EN', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'EN', 'HI']",/ɪz hoːteːl kiː sɜːrvɪs eːkdʊm fɪrst klɑːs hɛː/
+mummy ke haath ka is khana the best,positive,mummy ke haath ka is khana the best,"['UNK', 'HI', 'HI', 'HI', 'EN', 'HI', 'HI', 'EN']",/mʊmmj keː haːtʰ kaː ɪz kʰaːnaː tʰeː best/
+mummy haath ka khana is the best,positive,mummy haath ka khana is the best,"['UNK', 'HI', 'HI', 'HI', 'EN', 'HI', 'EN']",/mʊmmj haːtʰ kaː kʰaːnaː ɪz tʰeː best/
+finally weekend relaxing at home adore it,positive,finally weekend relaxing at home adore it,"['EN', 'HI', 'EN', 'EN', 'UNK', 'UNK', 'EN']",/faɪnəliː wiːkeːnd reːləksɪŋ æt hoːmeː ədoːreː ɪt/
+finally weekend relaxing at love it,positive,finally weekend relaxing at love it,"['EN', 'HI', 'EN', 'EN', 'UNK', 'EN']",/faɪnəliː wiːkeːnd reːləksɪŋ æt loːveː ɪt/
+finally relaxing weekend at home pyaar it,positive,finally relaxing weekend at home pyaar it,"['EN', 'EN', 'HI', 'EN', 'UNK', 'HI', 'EN']",/faɪnəliː reːləksɪŋ wiːkeːnd æt hoːmeː pjaːr ɪt/
+party was lit bahut,positive,party was lit bahut,"['EN', 'EN', 'UNK', 'HI']",/pɑːrtiː wɒz lɪt bəhʊt/
+bhai party lit bahut maza aaya,positive,bhai party lit bahut maza aaya,"['HI', 'EN', 'UNK', 'HI', 'UNK', 'HI']",/bʰaːiː pɑːrtiː lɪt bəhʊt məzə aːjaː/
+bhai was party bahut maza aaya,positive,bhai was party bahut maza aaya,"['HI', 'EN', 'EN', 'HI', 'UNK', 'HI']",/bʰaːiː wɒz pɑːrtiː bəhʊt məzə aːjaː/
+new phone is amazing features kamaal ke hain,positive,new phone is amazing features kamaal ke hai,"['EN', 'EN', 'EN', 'EN', 'UNK', 'HI', 'HI', 'HI']",/njuː foʊn ɪz əmeɪzɪŋ feːətʊreːs kəmaːl keː hɛː/
+new phone is great features kamaal ke hain,positive,new phone is great features kamaal ke hai,"['EN', 'EN', 'EN', 'EN', 'UNK', 'HI', 'HI', 'HI']",/njuː foʊn ɪz greɪt feːətʊreːs kəmaːl keː hɛː/
+teacher kaafi acche se everything,positive,teacher kaafi acche se everything,"['UNK', 'HI', 'UNK', 'HI', 'EN']",/teːətʃeːr kaːfɪ əktʃeː seː evriːθɪŋ/
+teacher ne bhut acche samjhaya se understood everything,positive,teacher ne bahut acche samjhaya se understood everything,"['UNK', 'UNK', 'HI', 'UNK', 'UNK', 'HI', 'HI', 'EN']",/teːətʃeːr neː bəhʊt əktʃeː səmdʒʰəjə seː ʊndeːrstuːd evriːθɪŋ/
+road trip superb was best memories ever,positive,road trip superb was best memories ever,"['UNK', 'UNK', 'UNK', 'EN', 'EN', 'UNK', 'UNK']",/roːəd trɪp sʊpeːrb wɒz best meːmoːrɪeːs eːveːr/
+road trip was superb best ever memories,positive,road trip was superb best ever memories,"['UNK', 'UNK', 'EN', 'UNK', 'EN', 'UNK', 'UNK']",/roːəd trɪp wɒz sʊpeːrb best eːveːr meːmoːrɪeːs/
+road trip was superb sabse acha memories ever,positive,road trip was superb sabse acha memories ever,"['UNK', 'UNK', 'EN', 'UNK', 'UNK', 'HI', 'UNK', 'UNK']",/roːəd trɪp wɒz sʊpeːrb səbseː ətʃʰaː meːmoːrɪeːs eːveːr/
+coffee shop ki ambiance very soothing is,positive,coffee shop ki ambiance very soothing is,"['EN', 'UNK', 'HI', 'UNK', 'EN', 'EN', 'EN']",/kɒfiː ʃoːp kiː əmbɪənkeː veriː suːtʰɪŋ ɪz/
+gym jaana kiya start feeling energetic,positive,gym jaana kya start feeling energetic,"['UNK', 'HI', 'HI', 'EN', 'EN', 'UNK']",/gjm dʒaːnə kjaː stɑːrt fiːlɪŋ eːneːrgeːtɪk/
+promotion mil gayi finally hard work off paid,positive,promotion mil gayi finally hard work off paid,"['EN', 'HI', 'HI', 'EN', 'EN', 'EN', 'UNK', 'UNK']",/proːmoːtɪoːn mɪl gəjiː faɪnəliː hɑːrd wɜːrk oːff paɪd/
+promotion mil gayi finally hard work off paid,positive,promotion mil gayi finally hard work off paid,"['EN', 'HI', 'HI', 'EN', 'EN', 'EN', 'UNK', 'UNK']",/proːmoːtɪoːn mɪl gəjiː faɪnəliː hɑːrd wɜːrk oːff paɪd/
+promotion mil finally gayi hard work paid off,positive,promotion mil finally gayi hard work paid off,"['EN', 'HI', 'EN', 'HI', 'EN', 'EN', 'UNK', 'UNK']",/proːmoːtɪoːn mɪl faɪnəliː gəjiː hɑːrd wɜːrk paɪd oːff/
+pe beach so beautiful,positive,pe beach so beautiful,"['HI', 'UNK', 'EN', 'EN']",/peː beːətʃ soʊ bjuːtɪfʊl/
+dekha sunset beach pe so beautiful,positive,dekha sunset beach pe so beautiful,"['HI', 'UNK', 'UNK', 'HI', 'EN', 'EN']",/deːkʰaː sʊnseːt beːətʃ peː soʊ bjuːtɪfʊl/
+sunset dekha pe beach so beautiful,positive,sunset dekha pe beach so beautiful,"['UNK', 'HI', 'HI', 'UNK', 'EN', 'EN']",/sʊnseːt deːkʰaː peː beːətʃ soʊ bjuːtɪfʊl/
+friends ke saath time spend do is priceless,positive,friends ke saath time spend do is priceless,"['EN', 'HI', 'HI', 'HI', 'UNK', 'HI', 'EN', 'UNK']",/frendz keː saːtʰ tɪmeː speːnd doː ɪz prɪkeːleːss/
+friends ke saath time spend karo is priceless,positive,friends ke saath time spend karo is priceless,"['EN', 'HI', 'HI', 'HI', 'UNK', 'HI', 'EN', 'UNK']",/frendz keː saːtʰ tɪmeː speːnd kəroː ɪz prɪkeːleːss/
+ke saath time spend karna is priceless,positive,ke saath time spend karna is priceless,"['HI', 'HI', 'HI', 'UNK', 'HI', 'EN', 'UNK']",/keː saːtʰ tɪmeː speːnd kərnaː ɪz prɪkeːleːss/
+homemade pizza turned out zabardast first attempt,positive,homemade pizza turned out zabardast first attempt,"['UNK', 'UNK', 'EN', 'UNK', 'HI', 'UNK', 'UNK']",/hoːmeːmədeː pɪzzə tʊrneːd aʊt zəbərdəst fɪrst ətteːmpt/
+homemade pizza turned out awesome first attempt,positive,homemade pizza turned out awesome first attempt,"['UNK', 'UNK', 'EN', 'UNK', 'EN', 'UNK', 'UNK']",/hoːmeːmədeː pɪzzə tʊrneːd aʊt ɔːsəm fɪrst ətteːmpt/
+book very interesting was couldnt put it,positive,book very interesting was couldnt put it,"['HI', 'EN', 'EN', 'EN', 'UNK', 'UNK', 'EN']",/buːk veriː ɪntrəstɪŋ wɒz kaʊldnt pʊt ɪt/
+book kaafi interesting was couldnt put it down,positive,book kaafi interesting was couldnt put it down,"['HI', 'HI', 'EN', 'EN', 'UNK', 'UNK', 'EN', 'UNK']",/buːk kaːfɪ ɪntrəstɪŋ wɒz kaʊldnt pʊt ɪt doːwn/
+morning walk pe fresh feel ho raha,positive,morning walk pe fresh feel ho raha,"['EN', 'UNK', 'HI', 'UNK', 'EN', 'HI', 'HI']",/moːrnɪŋ wəlk peː freːʃ fiːl hoː rəhaː/
+morning walk gya pe fresh feel ho rahaa,positive,morning walk gya pe fresh feel ho rahaa,"['EN', 'UNK', 'UNK', 'HI', 'UNK', 'EN', 'HI', 'HI']",/moːrnɪŋ wəlk gjə peː freːʃ fiːl hoː rəhaː/
+birthday celebration was perfect thank all you,positive,birthday celebration was perfect thank all you,"['UNK', 'EN', 'EN', 'UNK', 'EN', 'UNK', 'EN']",/bɪrtʰdəj keːleːbrətɪoːn wɒz peːrfeːkt θæŋk əll juː/
+birthday celebration perfect was thank you all,positive,birthday celebration perfect was thank you all,"['UNK', 'EN', 'UNK', 'EN', 'EN', 'EN', 'UNK']",/bɪrtʰdəj keːleːbrətɪoːn peːrfeːkt wɒz θæŋk juː əll/
+was perfect thank you all,positive,was perfect thank you all,"['EN', 'UNK', 'EN', 'EN', 'UNK']",/wɒz peːrfeːkt θæŋk juː əll/
+online course boht informative h learning a lot,positive,online course bahut informative hai learning a lot,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/oːnlɪneː kaʊrseː bəhʊt ɪnfoːrmətɪveː hɛː leːərnɪŋ ə loːt/
+online course boht informative hai a learning lot,positive,online course bahut informative hai a learning lot,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/oːnlɪneː kaʊrseː bəhʊt ɪnfoːrmətɪveː hɛː ə leːərnɪŋ loːt/
+online course very informative hai learning a lot,positive,online course very informative hai learning a lot,"['UNK', 'UNK', 'EN', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/oːnlɪneː kaʊrseː veriː ɪnfoːrmətɪveː hɛː leːərnɪŋ ə loːt/
+on train time aayi for once happy,positive,on train time aayi for once happy,"['EN', 'EN', 'HI', 'HI', 'EN', 'UNK', 'EN']",/ɒn treɪn tɪmeː aːjɪ fɔːr oːnkeː hæpiː/
+train on aayi time for once glad,positive,train on aayi time for once glad,"['EN', 'EN', 'HI', 'HI', 'EN', 'UNK', 'UNK']",/treɪn ɒn aːjɪ tɪmeː fɔːr oːnkeː gləd/
+train on time aayi for once excited,positive,train on time aayi for once excited,"['EN', 'EN', 'HI', 'HI', 'EN', 'UNK', 'EN']",/treɪn ɒn tɪmeː aːjɪ fɔːr oːnkeː ɪksaɪtɪd/
+neighbours bahut lucky to them,positive,neighbours bahut lucky to them,"['UNK', 'HI', 'UNK', 'HI', 'EN']",/neːɪgʰbaʊrs bəhʊt lʊkkj toː ðem/
+neighbours bhot helpful hain lucky to have them,positive,neighbours bahut helpful hai lucky to have them,"['UNK', 'HI', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN']",/neːɪgʰbaʊrs bəhʊt heːlpfʊl hɛː lʊkkj toː hæv ðem/
+bahut neighbours helpful hain lucky to have them,positive,bahut neighbours helpful hai lucky to have them,"['HI', 'UNK', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN']",/bəhʊt neːɪgʰbaʊrs heːlpfʊl hɛː lʊkkj toː hæv ðem/
+credited salary finally shopping time,positive,credited salary finally shopping time,"['EN', 'UNK', 'EN', 'EN', 'HI']",/kreːdɪteːd sələrj faɪnəliː ʃoːppɪŋ tɪmeː/
+salary finally time,positive,salary finally time,"['UNK', 'EN', 'HI']",/sələrj faɪnəliː tɪmeː/
+plants grow ho rahe hain gardening therapeutic is,positive,plants grow ho rahe hai gardening therapeutic is,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'EN', 'UNK', 'EN']",/plənts groːw hoː rəheː hɛː gərdeːnɪŋ tʰeːrəpeːʊtɪk ɪz/
+childhood buddy se mila after years emotional moment,positive,childhood buddy se mila after years emotional moment,"['HI', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'UNK', 'EN']",/tʃɪldʰuːd bʊddj seː mɪlaː ɑːftər jeːərs eːmoːtɪoːnəl moːmeːnt/
+dost childhood se mila after years emotional moment,positive,dost childhood se mila after years emotional moment,"['HI', 'HI', 'HI', 'HI', 'EN', 'UNK', 'UNK', 'EN']",/doːst tʃɪldʰuːd seː mɪlaː ɑːftər jeːərs eːmoːtɪoːnəl moːmeːnt/
+childhood buddy se mila after moment,positive,childhood buddy se mila after moment,"['HI', 'UNK', 'HI', 'HI', 'EN', 'EN']",/tʃɪldʰuːd bʊddj seː mɪlaː ɑːftər moːmeːnt/
+gaya confident about results,positive,gaya confident about results,"['HI', 'UNK', 'EN', 'UNK']",/gəjaː koːnfɪdeːnt əbaʊt reːsʊlts/
+interview accha gaya confident results about,positive,interview acha gaya confident results about,"['UNK', 'HI', 'HI', 'UNK', 'UNK', 'EN']",/ɪnteːrvɪeːw ətʃʰaː gəjaː koːnfɪdeːnt reːsʊlts əbaʊt/
+home renovation complete looks now beautiful,positive,home renovation complete looks now beautiful,"['UNK', 'EN', 'UNK', 'HI', 'EN', 'EN']",/hoːmeː reːnoːvətɪoːn koːmpleːteː luːks naʊ bjuːtɪfʊl/
+home renovation complete beautiful looks now,positive,home renovation complete beautiful looks now,"['UNK', 'EN', 'UNK', 'EN', 'HI', 'EN']",/hoːmeː reːnoːvətɪoːn koːmpleːteː bjuːtɪfʊl luːks naʊ/
+home renovation complete looks beautiful abhi,positive,home renovation complete looks beautiful abhi,"['UNK', 'EN', 'UNK', 'HI', 'EN', 'HI']",/hoːmeː reːnoːvətɪoːn koːmpleːteː luːks bjuːtɪfʊl əbʰiː/
+diet kar raha already seeing,positive,diet kar raha already seeing,"['UNK', 'HI', 'HI', 'EN', 'EN']",/dɪeːt kər rəhaː ɔːlrediː siːɪŋ/
+surprise party for mom she was so glad,positive,surprise party for mom she was so glad,"['UNK', 'EN', 'EN', 'EN', 'EN', 'EN', 'EN', 'UNK']",/sʊrprɪseː pɑːrtiː fɔːr mɒm ʃiː wɒz soʊ gləd/
+college memories yaad aa gayi acha old days,positive,college memories yaad aa gayi acha old days,"['EN', 'UNK', 'HI', 'HI', 'HI', 'HI', 'EN', 'UNK']",/kɒlɪdʒ meːmoːrɪeːs jaːd aː gəjiː ətʃʰaː oʊld dəjs/
+college memories yaad aa gayi good days,positive,college memories yaad aa gayi good days,"['EN', 'UNK', 'HI', 'HI', 'HI', 'EN', 'UNK']",/kɒlɪdʒ meːmoːrɪeːs jaːd aː gəjiː gʊd dəjs/
+college memories yaad aa gayi good days old,positive,college memories yaad aa gayi good days old,"['EN', 'UNK', 'HI', 'HI', 'HI', 'EN', 'UNK', 'EN']",/kɒlɪdʒ meːmoːrɪeːs jaːd aː gəjiː gʊd dəjs oʊld/
+long drive gaye weather perfect tha,positive,long drive gaye weather perfect tha,"['EN', 'UNK', 'HI', 'UNK', 'UNK', 'HI']",/lɒŋ drɪveː gəjeː weːətʰeːr peːrfeːkt tʰaː/
+long drive pe gaye weather perfect thaa,positive,long drive pe gaye weather perfect tha,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI']",/lɒŋ drɪveː peː gəjeː weːətʰeːr peːrfeːkt tʰaː/
+long pe weather perfect tha,positive,long pe weather perfect tha,"['EN', 'HI', 'UNK', 'UNK', 'HI']",/lɒŋ peː weːətʰeːr peːrfeːkt tʰaː/
+yoga joined feeling flexible already,positive,yoga joined feeling flexible already,"['UNK', 'EN', 'EN', 'EN', 'EN']",/joːgə dʒɔɪneːd fiːlɪŋ fleːksɪbleː ɔːlrediː/
+yoga class joined feeling flexible,positive,yoga class joined feeling flexible,"['UNK', 'EN', 'EN', 'EN', 'EN']",/joːgə klɑːs dʒɔɪneːd fiːlɪŋ fleːksɪbleː/
+yoga class joined feeling already flexible,positive,yoga class joined feeling already flexible,"['UNK', 'EN', 'EN', 'EN', 'EN', 'EN']",/joːgə klɑːs dʒɔɪneːd fiːlɪŋ ɔːlrediː fleːksɪbleː/
+documentary dekhi inspiring very must watch,positive,documentary dekhi inspiring very must watch,"['UNK', 'HI', 'EN', 'EN', 'UNK', 'EN']",/doːkʊmeːntərj deːkʰɪ ɪnspɪrɪŋ veriː mʊst wɒtʃ/
+documentary dekhi inspiring very must watch,positive,documentary dekhi inspiring very must watch,"['UNK', 'HI', 'EN', 'EN', 'UNK', 'EN']",/doːkʊmeːntərj deːkʰɪ ɪnspɪrɪŋ veriː mʊst wɒtʃ/
+kya bekar service hain totally disappointed,negative,kya bekar service hai totally disappointed,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/kjaː beːkaːr sɜːrvɪs hɛː toʊtəliː dɪsəpɔɪntɪd/
+kyaa bakwas service he totally disappointed,negative,kya bakwas service hai totally disappointed,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/kjaː bəkvaːs sɜːrvɪs hɛː toʊtəliː dɪsəpɔɪntɪd/
+kya service bakwas hai totally disappointed,negative,kya service bakwas hai totally disappointed,"['HI', 'UNK', 'HI', 'HI', 'EN', 'EN']",/kjaː sɜːrvɪs bəkvaːs hɛː toʊtəliː dɪsəpɔɪntɪd/
+day bahut tha nothing happened,negative,day bahut tha nothing happened,"['EN', 'HI', 'HI', 'EN', 'EN']",/deɪ bəhʊt tʰaː nʌθɪŋ hæpənd/
+bahut nothing happened,negative,bahut nothing happened,"['HI', 'EN', 'EN']",/bəhʊt nʌθɪŋ hæpənd/
+boht boring day tha nothing happened,negative,bahut boring day tha nothing happened,"['HI', 'HI', 'EN', 'HI', 'EN', 'EN']",/bəhʊt boːrɪŋ deɪ tʰaː nʌθɪŋ hæpənd/
+ye film complete waste of time was,negative,ye film complete waste of time was,"['HI', 'EN', 'UNK', 'UNK', 'UNK', 'HI', 'EN']",/jeː fɪlm koːmpleːteː wəsteː oːf tɪmeː wɒz/
+traffic mein hun stuck bahut frustrating,negative,traffic mein hun stuck bahut frustrating,"['EN', 'HI', 'HI', 'UNK', 'HI', 'EN']",/træfɪk mẽː hũː stʌk bəhʊt frʌstreɪtɪŋ/
+traffic mein stuck hun bohot irritating,negative,traffic mein stuck hun bahut irritating,"['EN', 'HI', 'UNK', 'HI', 'HI', 'EN']",/træfɪk mẽː stʌk hũː bəhʊt ɪrrɪtətɪŋ/
+kya ghatiya hai quality is product ki,negative,kya ghatiya hai quality is product ki,"['HI', 'UNK', 'HI', 'UNK', 'EN', 'UNK', 'HI']",/kjaː gʰətɪjə hɛː kʊəlɪtj ɪz proːdʊkt kiː/
+kya quality hai is ki product,negative,kya quality hai is ki product,"['HI', 'UNK', 'HI', 'EN', 'HI', 'UNK']",/kjaː kʊəlɪtj hɛː ɪz kiː proːdʊkt/
+kia ghatiya quality hai is product ki,negative,kya ghatiya quality hai is product ki,"['HI', 'UNK', 'UNK', 'HI', 'EN', 'UNK', 'HI']",/kjaː gʰətɪjə kʊəlɪtj hɛː ɪz proːdʊkt kiː/
+bahut experience bura tha never going back,negative,bahut experience bura tha never going back,"['HI', 'UNK', 'HI', 'HI', 'EN', 'EN', 'UNK']",/bəhʊt ɪkspɪərɪəns bʊraː tʰaː nevər goʊɪŋ bæk/
+boht ganda experience tha never going back,negative,bahut ganda experience tha never going back,"['HI', 'UNK', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/bəhʊt gəndə ɪkspɪərɪəns tʰaː nevər goʊɪŋ bæk/
+bohot bura experience thaa never going back,negative,bahut bura experience tha never going back,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN', 'UNK']",/bəhʊt bʊraː ɪkspɪərɪəns tʰaː nevər goʊɪŋ bæk/
+itna wait karaya terrible,negative,itna wait karaya terrible,"['UNK', 'UNK', 'UNK', 'EN']",/ɪtnə weɪt kərəjə teːrrɪbleː/
+itna wait for karaya nothing terrible,negative,itna wait for karaya nothing terrible,"['UNK', 'UNK', 'EN', 'UNK', 'EN', 'EN']",/ɪtnə weɪt fɔːr kərəjə nʌθɪŋ teːrrɪbleː/
+ye toh tha completely,negative,ye toh tha completely,"['HI', 'HI', 'HI', 'EN']",/jeː toː tʰaː kəmpliːtliː/
+ye food toh waste thaa completely tasteless,negative,ye food toh waste tha completely tasteless,"['HI', 'EN', 'HI', 'UNK', 'HI', 'EN', 'UNK']",/jeː fuːd toː wəsteː tʰaː kəmpliːtliː təsteːleːss/
+toh bekar completely,negative,toh bekar completely,"['HI', 'HI', 'EN']",/toː beːkaːr kəmpliːtliː/
+bahut sad kuch achha nahi hua,negative,bahut sad kuch acha nahi hua,"['HI', 'EN', 'HI', 'HI', 'HI', 'UNK']",/bəhʊt sæd kʊtʃ ətʃʰaː nəhĩː hʊə/
+aaj bahut unhappy feeling hai kuch badhiya nhi hua,negative,aaj bahut unhappy feeling hai kuch badhiya nahi hua,"['HI', 'HI', 'UNK', 'EN', 'HI', 'HI', 'UNK', 'HI', 'UNK']",/aːdʒ bəhʊt ʊnhəppj fiːlɪŋ hɛː kʊtʃ bədʰɪjə nəhĩː hʊə/
+boht aaj sad feeling hain kuch acha nahi hua,negative,bahut aaj sad feeling hai kuch acha nahi hua,"['HI', 'HI', 'EN', 'EN', 'HI', 'HI', 'HI', 'HI', 'UNK']",/bəhʊt aːdʒ sæd fiːlɪŋ hɛː kʊtʃ ətʃʰaː nəhĩː hʊə/
+customer worst service ever gussa aa raha hai,negative,customer worst service ever gussa aa raha hai,"['UNK', 'EN', 'UNK', 'UNK', 'UNK', 'HI', 'HI', 'HI']",/kʊstoːmeːr wɜːrst sɜːrvɪs eːveːr gʊssə aː rəhaː hɛː/
+worst customer service ever gussa aa hai,negative,worst customer service ever gussa aa hai,"['EN', 'UNK', 'UNK', 'UNK', 'UNK', 'HI', 'HI']",/wɜːrst kʊstoːmeːr sɜːrvɪs eːveːr gʊssə aː hɛː/
+worst service ever gussa aa raha,negative,worst service ever gussa aa raha,"['EN', 'UNK', 'UNK', 'UNK', 'HI', 'HI']",/wɜːrst sɜːrvɪs eːveːr gʊssə aː rəhaː/
+is jagah pe mat jao total fraud is,negative,is jagah pe mat jao total fraud is,"['EN', 'UNK', 'HI', 'HI', 'HI', 'UNK', 'UNK', 'EN']",/ɪz dʒəgəh peː mət dʒaːoː toːtəl fraʊd ɪz/
+is jagah pe jana mat total fraud hai,negative,is jagah pe jana mat total fraud hai,"['EN', 'UNK', 'HI', 'HI', 'HI', 'UNK', 'UNK', 'HI']",/ɪz dʒəgəh peː dʒaːnaː mət toːtəl fraʊd hɛː/
+is jagah pe mat go total fraud hain,negative,is jagah pe mat go total fraud hai,"['EN', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'UNK', 'HI']",/ɪz dʒəgəh peː mət goʊ toːtəl fraʊd hɛː/
+pagal diya inhone with their nonsense,negative,pagal diya inhone with their nonsense,"['UNK', 'HI', 'UNK', 'EN', 'EN', 'UNK']",/pəgəl dɪjaː ɪnhoːneː wɪð ðeər noːnseːnseː/
+disappointing very match was should have won,negative,disappointing very match was should have won,"['EN', 'EN', 'UNK', 'EN', 'UNK', 'EN', 'UNK']",/dɪsəppɔɪntɪŋ veriː məttʃ wɒz ʃaʊld hæv woːn/
+disappointing bahut match tha should have won,negative,disappointing bahut match tha should have won,"['EN', 'HI', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/dɪsəppɔɪntɪŋ bəhʊt məttʃ tʰaː ʃaʊld hæv woːn/
+bahut disappointing should have won,negative,bahut disappointing should have won,"['HI', 'EN', 'UNK', 'EN', 'UNK']",/bəhʊt dɪsəppɔɪntɪŋ ʃaʊld hæv woːn/
+ye plan to fail ho gaya complete waste,negative,ye plan to fail ho gaya complete waste,"['HI', 'EN', 'HI', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/jeː plæn toː faɪl hoː gəjaː koːmpleːteː wəsteː/
+ye plan to fail ho gya complete waste,negative,ye plan to fail ho gya complete waste,"['HI', 'EN', 'HI', 'UNK', 'HI', 'UNK', 'UNK', 'UNK']",/jeː plæn toː faɪl hoː gjə koːmpleːteː wəsteː/
+what torture hain friend unbearable situation,negative,what torture hai friend unbearable situation,"['EN', 'UNK', 'HI', 'EN', 'EN', 'EN']",/wɒt toːrtʊreː hɛː frend ʊnbeːərəbleː sɪtʊətɪoːn/
+kia torture hai yar unbearable situation,negative,kya torture hai yaar unbearable situation,"['HI', 'UNK', 'HI', 'HI', 'EN', 'EN']",/kjaː toːrtʊreː hɛː jaːr ʊnbeːərəbleː sɪtʊətɪoːn/
+torture yaar unbearable,negative,torture yaar unbearable,"['UNK', 'HI', 'EN']",/toːrtʊreː jaːr ʊnbeːərəbleː/
+headache ho raha he badly need rest,negative,headache ho raha hai badly need rest,"['UNK', 'HI', 'HI', 'HI', 'EN', 'EN', 'UNK']",/heːədətʃeː hoː rəhaː hɛː bədlj niːd reːst/
+headache ho raha he badly need rest,negative,headache ho raha hai badly need rest,"['UNK', 'HI', 'HI', 'HI', 'EN', 'EN', 'UNK']",/heːədətʃeː hoː rəhaː hɛː bədlj niːd reːst/
+ho headache raha hai badly need rest,negative,ho headache raha hai badly need rest,"['HI', 'UNK', 'HI', 'HI', 'EN', 'EN', 'UNK']",/hoː heːədətʃeː rəhaː hɛː bədlj niːd reːst/
+phone hang ho raha he irritating kaafi,negative,phone hang ho raha hai irritating kaafi,"['EN', 'UNK', 'HI', 'HI', 'HI', 'EN', 'HI']",/foʊn həŋ hoː rəhaː hɛː ɪrrɪtətɪŋ kaːfɪ/
+phone hang ho raha hai bahut irritating,negative,phone hang ho raha hai bahut irritating,"['EN', 'UNK', 'HI', 'HI', 'HI', 'HI', 'EN']",/foʊn həŋ hoː rəhaː hɛː bəhʊt ɪrrɪtətɪŋ/
+phone hang ho rahaa irritating h bhut,negative,phone hang ho rahaa irritating hai bahut,"['EN', 'UNK', 'HI', 'HI', 'EN', 'HI', 'HI']",/foʊn həŋ hoː rəhaː ɪrrɪtətɪŋ hɛː bəhʊt/
+order late cold food mila useless,negative,order late cold food mila useless,"['UNK', 'EN', 'UNK', 'EN', 'HI', 'UNK']",/oːrdeːr leɪt koːld fuːd mɪlaː ʊseːleːss/
+order late aaya cold food useless mila,negative,order late aaya cold food useless mila,"['UNK', 'EN', 'HI', 'UNK', 'EN', 'UNK', 'HI']",/oːrdeːr leɪt aːjaː koːld fuːd ʊseːleːss mɪlaː/
+exam very tough was not prepared enough,negative,exam very tough was not prepared enough,"['EN', 'EN', 'UNK', 'EN', 'UNK', 'EN', 'UNK']",/ɪgzæm veriː taʊgʰ wɒz noːt preːpəreːd eːnaʊgʰ/
+exam bahut tough not tha prepared enough,negative,exam bahut tough not tha prepared enough,"['EN', 'HI', 'UNK', 'UNK', 'HI', 'EN', 'UNK']",/ɪgzæm bəhʊt taʊgʰ noːt tʰaː preːpəreːd eːnaʊgʰ/
+boss ne daanta for no feeling reason low,negative,boss ne daanta for no feeling reason low,"['UNK', 'UNK', 'HI', 'EN', 'EN', 'EN', 'UNK', 'UNK']",/boːss neː daːntə fɔːr noʊ fiːlɪŋ reːəsoːn loːw/
+boss ne daanta no reason feeling low,negative,boss ne daanta no reason feeling low,"['UNK', 'UNK', 'HI', 'EN', 'UNK', 'EN', 'UNK']",/boːss neː daːntə noʊ reːəsoːn fiːlɪŋ loːw/
+not working cant do frustrated,negative,not working cant do frustrated,"['UNK', 'EN', 'UNK', 'HI', 'EN']",/noːt wɜːrkɪŋ kənt doː frʊstrəteːd/
+wifi not working do cant anything frustrated,negative,wifi not working do cant anything frustrated,"['UNK', 'UNK', 'EN', 'HI', 'UNK', 'EN', 'EN']",/wɪfɪ noːt wɜːrkɪŋ doː kənt ənjtʰɪŋ frʊstrəteːd/
+rain me bhig gaya feeling sick now,negative,rain mein bhig gaya feeling sick now,"['UNK', 'HI', 'UNK', 'HI', 'EN', 'UNK', 'EN']",/raɪn mẽː bʰɪg gəjaː fiːlɪŋ sɪkk naʊ/
+spoiler mil ruined everything,negative,spoiler mil ruined everything,"['UNK', 'HI', 'EN', 'EN']",/spɔɪleːr mɪl rʊɪneːd evriːθɪŋ/
+film spoiler gaya ruined,negative,film spoiler gaya ruined,"['EN', 'UNK', 'HI', 'EN']",/fɪlm spɔɪleːr gəjaː rʊɪneːd/
+movie spoiler gaya ruined everything,negative,movie spoiler gaya ruined everything,"['EN', 'UNK', 'HI', 'EN', 'EN']",/muːviː spɔɪleːr gəjaː rʊɪneːd evriːθɪŋ/
+alarm nahi baja ho gaya bad start,negative,alarm nahi baja ho gaya bad start,"['UNK', 'HI', 'UNK', 'HI', 'HI', 'EN', 'EN']",/ələrm nəhĩː bədʒə hoː gəjaː bæd stɑːrt/
+alarm nahi late baja ho gaya bad start,negative,alarm nahi late baja ho gaya bad start,"['UNK', 'HI', 'EN', 'UNK', 'HI', 'HI', 'EN', 'EN']",/ələrm nəhĩː leɪt bədʒə hoː gəjaː bæd stɑːrt/
+nahi late ho bad start,negative,nahi late ho bad start,"['HI', 'EN', 'HI', 'EN', 'EN']",/nəhĩː leɪt hoː bæd stɑːrt/
+yaar ne cancel kiya last minute,negative,yaar ne cancel kya last minute,"['HI', 'UNK', 'UNK', 'HI', 'UNK', 'UNK']",/jaːr neː kənkeːl kjaː ləst mɪnʊteː/
+friend cancel kiya last minute annoying,negative,friend cancel kya last minute annoying,"['EN', 'UNK', 'HI', 'UNK', 'UNK', 'EN']",/frend kənkeːl kjaː ləst mɪnʊteː ənɔɪɪŋ/
+ac kharab ho gya itni garmi me terrible,negative,ac kharab ho gya itni garmi mein terrible,"['UNK', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'HI', 'EN']",/ək kʰərəb hoː gjə ɪtnɪ gərmɪ mẽː teːrrɪbleː/
+kharab ac ho gaya itni garmi mein awful,negative,kharab ac ho gaya itni garmi mein awful,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI', 'UNK']",/kʰərəb ək hoː gəjaː ɪtnɪ gərmɪ mẽː əwfʊl/
+kharab ac ho gayaa itni garmi me terrible,negative,kharab ac ho gayaa itni garmi mein terrible,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI', 'EN']",/kʰərəb ək hoː gəjaː ɪtnɪ gərmɪ mẽː teːrrɪbleː/
+paise ho waste gaye useless product,negative,paise ho waste gaye useless product,"['UNK', 'HI', 'UNK', 'HI', 'UNK', 'UNK']",/paɪseː hoː wəsteː gəjeː ʊseːleːss proːdʊkt/
+sleep nahin aayi raat bhar tired feeling,negative,sleep nahi aayi raat bhar tired feeling,"['HI', 'HI', 'HI', 'HI', 'UNK', 'EN', 'EN']",/sliːp nəhĩː aːjɪ raːt bʰər taɪərd fiːlɪŋ/
+sleep nahi aayi raat,negative,sleep nahi aayi raat,"['HI', 'HI', 'HI', 'HI']",/sliːp nəhĩː aːjɪ raːt/
+sleep nahi aayi bhar feeling tired,negative,sleep nahi aayi bhar feeling tired,"['HI', 'HI', 'HI', 'UNK', 'EN', 'EN']",/sliːp nəhĩː aːjɪ bʰər fiːlɪŋ taɪərd/
+car ho breakdown gayi middle of nowhere worst,negative,car ho breakdown gayi middle of nowhere worst,"['EN', 'HI', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'EN']",/kɑːr hoː breːəkdoːwn gəjiː mɪddleː oːf noːwheːreː wɜːrst/
+car breakdown ho gayi of worst,negative,car breakdown ho gayi of worst,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/kɑːr breːəkdoːwn hoː gəjiː oːf wɜːrst/
+fake product mila online se shopping cheated,negative,fake product mila online se shopping cheated,"['EN', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN']",/fəkeː proːdʊkt mɪlaː oːnlɪneː seː ʃoːppɪŋ tʃeːəteːd/
+product fake mila online shopping se cheated,negative,product fake mila online shopping se cheated,"['UNK', 'EN', 'HI', 'UNK', 'EN', 'HI', 'EN']",/proːdʊkt fəkeː mɪlaː oːnlɪneː ʃoːppɪŋ seː tʃeːəteːd/
+presentation mess ho gayi moment,negative,presentation mess ho gayi moment,"['EN', 'UNK', 'HI', 'HI', 'EN']",/prezənteɪʃən meːss hoː gəjiː moːmeːnt/
+mess ho gayi moment,negative,mess ho gayi moment,"['UNK', 'HI', 'HI', 'EN']",/meːss hoː gəjiː moːmeːnt/
+flight delayed by hours wasted,negative,flight delayed by hours wasted,"['EN', 'EN', 'EN', 'UNK', 'EN']",/flaɪt deːləjeːd baɪ haʊrs wəsteːd/
+delayed flight by hours wasted whole day,negative,delayed flight by hours wasted whole day,"['EN', 'EN', 'EN', 'UNK', 'EN', 'UNK', 'EN']",/deːləjeːd flaɪt baɪ haʊrs wəsteːd whoːleː deɪ/
+hotel room dirty pathetic tha condition,negative,hotel room dirty pathetic tha condition,"['UNK', 'HI', 'UNK', 'UNK', 'HI', 'EN']",/hoːteːl ruːm dɪrtj pətʰeːtɪk tʰaː koːndɪtɪoːn/
+hotel room dirty thaa pathetic condition,negative,hotel room dirty tha pathetic condition,"['UNK', 'HI', 'UNK', 'HI', 'UNK', 'EN']",/hoːteːl ruːm dɪrtj tʰaː pətʰeːtɪk koːndɪtɪoːn/
+food poisoning ho gayaa horrible experience,negative,food poisoning ho gayaa horrible experience,"['EN', 'EN', 'HI', 'HI', 'EN', 'UNK']",/fuːd pɔɪsoːnɪŋ hoː gəjaː hoːrrɪbleː ɪkspɪərɪəns/
+food poisoning ho horrible experience,negative,food poisoning ho horrible experience,"['EN', 'EN', 'HI', 'EN', 'UNK']",/fuːd pɔɪsoːnɪŋ hoː hoːrrɪbleː ɪkspɪərɪəns/
+kho keys gayi locked out of house,negative,kho keys gayi locked out of house,"['UNK', 'UNK', 'HI', 'EN', 'UNK', 'UNK', 'UNK']",/kʰoː keːjs gəjiː loːkkeːd aʊt oːf haʊseː/
+keys kho gayi locked of house,negative,keys kho gayi locked of house,"['UNK', 'UNK', 'HI', 'EN', 'UNK', 'UNK']",/keːjs kʰoː gəjiː loːkkeːd oːf haʊseː/
+phone crack expensive repair,negative,phone crack expensive repair,"['EN', 'UNK', 'UNK', 'UNK']",/foʊn krəkk eːkspeːnsɪveː reːpaɪr/
+screen phone crack ho gayi expensive repair,negative,screen phone crack ho gayi expensive repair,"['HI', 'EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/skriːn foʊn krəkk hoː gəjiː eːkspeːnsɪveː reːpaɪr/
+gym band ho gayaa membership waste,negative,gym band ho gayaa membership waste,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/gjm bənd hoː gəjaː meːmbeːrʃɪp wəsteː/
+rude behaviour mila shop pe again never,negative,rude behaviour mila shop pe again never,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'EN', 'EN']",/rʊdeː beːhəvɪaʊr mɪlaː ʃoːp peː əgen nevər/
+rude behaviour shop mila pe never again,negative,rude behaviour shop mila pe never again,"['UNK', 'UNK', 'UNK', 'HI', 'HI', 'EN', 'EN']",/rʊdeː beːhəvɪaʊr ʃoːp mɪlaː peː nevər əgen/
+project reject ho gaya months work of gone,negative,project reject ho gaya months work of gone,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'EN', 'UNK', 'EN']",/prɒdʒekt reːdʒeːkt hoː gəjaː moːntʰs wɜːrk oːf gɒn/
+project reject ho gaya months work gone,negative,project reject ho gaya months work gone,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'EN', 'EN']",/prɒdʒekt reːdʒeːkt hoː gəjaː moːntʰs wɜːrk gɒn/
+parking mili nahi drove around for hours,negative,parking mili nahi drove around for hours,"['EN', 'HI', 'HI', 'UNK', 'UNK', 'EN', 'UNK']",/pərkɪŋ mɪliː nəhĩː droːveː əraʊnd fɔːr haʊrs/
+ne sota nahi diya whole night,negative,ne sota nahi diya whole night,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/neː soːtə nəhĩː dɪjaː whoːleː naɪt/
+printer jam gaya deadline miss hone wali,negative,printer jam gaya deadline miss hone wali,"['UNK', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'UNK']",/prɪnteːr dʒəm gəjaː deːədlɪneː mɪss hoːneː wəlɪ/
+wrong order deliver hua return process,negative,wrong order deliver hua return process,"['EN', 'UNK', 'UNK', 'UNK', 'UNK', 'UNK']",/wroːŋ oːrdeːr deːlɪveːr hʊə reːtʊrn proːkeːss/
+wrong order hua return process tedious,negative,wrong order hua return process tedious,"['EN', 'UNK', 'UNK', 'UNK', 'UNK', 'UNK']",/wroːŋ oːrdeːr hʊə reːtʊrn proːkeːss teːdɪaʊs/
+laptop ho hang gaya data save nahi hua,negative,laptop ho hang gaya data save nahi hua,"['UNK', 'HI', 'UNK', 'HI', 'UNK', 'UNK', 'HI', 'UNK']",/ləptoːp hoː həŋ gəjaː dətə səveː nəhĩː hʊə/
+laptop hang ho gya data save nahin hua,negative,laptop hang ho gya data save nahi hua,"['UNK', 'UNK', 'HI', 'UNK', 'UNK', 'UNK', 'HI', 'UNK']",/ləptoːp həŋ hoː gjə dətə səveː nəhĩː hʊə/
+noise hai very neighbours se cant concentrate,negative,noise hai very neighbours se cant concentrate,"['UNK', 'HI', 'EN', 'UNK', 'HI', 'UNK', 'UNK']",/nɔɪseː hɛː veriː neːɪgʰbaʊrs seː kənt koːnkeːntrəteː/
+bahut noise hai neighbours se cant concentrate,negative,bahut noise hai neighbours se cant concentrate,"['HI', 'UNK', 'HI', 'UNK', 'HI', 'UNK', 'UNK']",/bəhʊt nɔɪseː hɛː neːɪgʰbaʊrs seː kənt koːnkeːntrəteː/
+noise bahut hain neighbours cant se concentrate,negative,noise bahut hai neighbours cant se concentrate,"['UNK', 'HI', 'HI', 'UNK', 'UNK', 'HI', 'UNK']",/nɔɪseː bəhʊt hɛː neːɪgʰbaʊrs kənt seː koːnkeːntrəteː/
+cold lag gayi medicine le raha weak feeling,negative,cold lag gayi medicine le raha weak feeling,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/koːld ləg gəjiː meːdɪkɪneː leː rəhaː weːək fiːlɪŋ/
+bus miss ho gayi next one after hour 1,negative,bus miss ho gayi next one after hour 1,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'UNK', 'EN', 'UNK', 'UNK']",/bʌs mɪss hoː gəjiː neːkst oːneː ɑːftər haʊr 1/
+miss ho gayi next after 1 hour,negative,miss ho gayi next after 1 hour,"['UNK', 'HI', 'HI', 'UNK', 'EN', 'UNK', 'UNK']",/mɪss hoː gəjiː neːkst ɑːftər 1 haʊr/
+charger kharab ho gayaa phone dead now,negative,charger kharab ho gayaa phone dead now,"['UNK', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'EN']",/tʃərgeːr kʰərəb hoː gəjaː foʊn deːəd naʊ/
+kharab ho gaya now phone,negative,kharab ho gaya now phone,"['UNK', 'HI', 'HI', 'EN', 'EN']",/kʰərəb hoː gəjaː naʊ foʊn/
+charger kharab ho gaya phone dead,negative,charger kharab ho gaya phone dead,"['UNK', 'UNK', 'HI', 'HI', 'EN', 'UNK']",/tʃərgeːr kʰərəb hoː gəjaː foʊn deːəd/
+meeting sust was waste of 2 hours,negative,meeting sust was waste of 2 hours,"['EN', 'UNK', 'EN', 'UNK', 'UNK', 'UNK', 'UNK']",/miːtɪŋ sʊst wɒz wəsteː oːf 2 haʊrs/
+boring meeting thi waste of hours,negative,boring meeting thi waste of hours,"['HI', 'EN', 'HI', 'UNK', 'UNK', 'UNK']",/boːrɪŋ miːtɪŋ tʰiː wəsteː oːf haʊrs/
+chai peene chalein kiya after meeting,neutral,chai peene chalein kya after meeting,"['HI', 'HI', 'UNK', 'HI', 'EN', 'EN']",/tʃaːiː piːneː tʃəlẽː kjaː ɑːftər miːtɪŋ/
+chai peene chalein after kia meeting,neutral,chai peene chalein after kya meeting,"['HI', 'HI', 'UNK', 'EN', 'HI', 'EN']",/tʃaːiː piːneː tʃəlẽː ɑːftər kjaː miːtɪŋ/
+chai chalein kya after meeting,neutral,chai chalein kya after meeting,"['HI', 'UNK', 'HI', 'EN', 'EN']",/tʃaːiː tʃəlẽː kjaː ɑːftər miːtɪŋ/
+aaj monday hai back work to,neutral,aaj monday hai back work to,"['HI', 'UNK', 'HI', 'UNK', 'EN', 'HI']",/aːdʒ mənɖeː hɛː bæk wɜːrk toː/
+aaj hai back to work,neutral,aaj hai back to work,"['HI', 'HI', 'UNK', 'HI', 'EN']",/aːdʒ hɛː bæk toː wɜːrk/
+aaj monday back hai to work,neutral,aaj monday back hai to work,"['HI', 'UNK', 'UNK', 'HI', 'HI', 'EN']",/aːdʒ mənɖeː bæk hɛː toː wɜːrk/
+office mein hun will call later,neutral,office mein hun will call later,"['EN', 'HI', 'HI', 'UNK', 'EN', 'UNK']",/ɒfɪs mẽː hũː wɪl kɔːl leɪtər/
+mein office hun abi will call later,neutral,mein office hun abhi will call later,"['HI', 'EN', 'HI', 'HI', 'UNK', 'EN', 'UNK']",/mẽː ɒfɪs hũː əbʰiː wɪl kɔːl leɪtər/
+kal movie dekhne shayad,neutral,kal movie dekhne shayad,"['HI', 'EN', 'UNK', 'HI']",/kəl muːviː deːkʰneː ʃaːjəd/
+tomorrow movie dekhne jayenge shayad,neutral,tomorrow movie dekhne jayenge shayad,"['EN', 'EN', 'UNK', 'UNK', 'HI']",/təmɒroʊ muːviː deːkʰneː dʒəjeːŋeː ʃaːjəd/
+3 baje dont forget,neutral,3 baje dont forget,"['UNK', 'UNK', 'UNK', 'UNK']",/3 bədʒeː doːnt foːrgeːt/
+meeting 3 baje is dont forget,neutral,meeting 3 baje is dont forget,"['EN', 'UNK', 'UNK', 'EN', 'UNK', 'UNK']",/miːtɪŋ 3 bədʒeː ɪz doːnt foːrgeːt/
+meeting 3 baje dont hai forget,neutral,meeting 3 baje dont hai forget,"['EN', 'UNK', 'UNK', 'UNK', 'HI', 'UNK']",/miːtɪŋ 3 bədʒeː doːnt hɛː foːrgeːt/
+ghar pahunch gya just reached home,neutral,ghar pahunch gya just reached home,"['HI', 'UNK', 'UNK', 'EN', 'EN', 'UNK']",/gʰər pəhʊntʃ gjə dʒʌst reːətʃeːd hoːmeː/
+pahunch gaya just reached home,neutral,pahunch gaya just reached home,"['UNK', 'HI', 'EN', 'EN', 'UNK']",/pəhʊntʃ gəjaː dʒʌst reːətʃeːd hoːmeː/
+kiya plan hai weekend ka let me know,neutral,kya plan hai weekend ka let mein know,"['HI', 'EN', 'HI', 'HI', 'HI', 'UNK', 'HI', 'EN']",/kjaː plæn hɛː wiːkeːnd kaː leːt mẽː noʊ/
+kya plan hai weekend ka me let know,neutral,kya plan hai weekend ka mein let know,"['HI', 'EN', 'HI', 'HI', 'HI', 'HI', 'UNK', 'EN']",/kjaː plæn hɛː wiːkeːnd kaː mẽː leːt noʊ/
+abhi lunch break me hun will reply,neutral,abhi lunch break mein hun will reply,"['HI', 'EN', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/əbʰiː lʌntʃ breːək mẽː hũː wɪl reːplj/
+abhi lunch mein hun will reply,neutral,abhi lunch mein hun will reply,"['HI', 'EN', 'HI', 'HI', 'UNK', 'EN']",/əbʰiː lʌntʃ mẽː hũː wɪl reːplj/
+now lunch break me hun will reply,neutral,now lunch break mein hun will reply,"['EN', 'EN', 'UNK', 'HI', 'HI', 'UNK', 'EN']",/naʊ lʌntʃ breːək mẽː hũː wɪl reːplj/
+train late as hai usual nothing new,neutral,train late as hai usual nothing new,"['EN', 'EN', 'UNK', 'HI', 'UNK', 'EN', 'EN']",/treɪn leɪt əs hɛː ʊsʊəl nʌθɪŋ njuː/
+train late he as usual nothing new,neutral,train late hai as usual nothing new,"['EN', 'EN', 'HI', 'UNK', 'UNK', 'EN', 'EN']",/treɪn leɪt hɛː əs ʊsʊəl nʌθɪŋ njuː/
+se yesterday gym shuru kar hai planning,neutral,se yesterday gym shuru kar hai planning,"['HI', 'EN', 'UNK', 'UNK', 'HI', 'HI', 'EN']",/seː jestərdeɪ gjm ʃʊrʊ kər hɛː plənnɪŋ/
+kal gym se shuru karna hai planning,neutral,kal gym se shuru karna hai planning,"['HI', 'UNK', 'HI', 'UNK', 'HI', 'HI', 'EN']",/kəl gjm seː ʃʊrʊ kərnaː hɛː plənnɪŋ/
+kal se gym shuru karna hai,neutral,kal se gym shuru karna hai,"['HI', 'HI', 'UNK', 'UNK', 'HI', 'HI']",/kəl seː gjm ʃʊrʊ kərnaː hɛː/
+ye book padh rha hun these days,neutral,ye book padh rha hun these days,"['HI', 'HI', 'UNK', 'UNK', 'HI', 'EN', 'UNK']",/jeː buːk pədʰ rhə hũː ðiːz dəjs/
+ye book padh raha hun days,neutral,ye book padh raha hun days,"['HI', 'HI', 'UNK', 'HI', 'HI', 'UNK']",/jeː buːk pədʰ rəhaː hũː dəjs/
+market jaana hain evening main shopping,neutral,market jaana hai evening mein shopping,"['UNK', 'HI', 'HI', 'EN', 'HI', 'EN']",/mərkeːt dʒaːnə hɛː eːveːnɪŋ mẽː ʃoːppɪŋ/
+market jaana he evening mein shopping,neutral,market jaana hai evening mein shopping,"['UNK', 'HI', 'HI', 'EN', 'HI', 'EN']",/mərkeːt dʒaːnə hɛː eːveːnɪŋ mẽː ʃoːppɪŋ/
+market jaana he evening mein shopping,neutral,market jaana hai evening mein shopping,"['UNK', 'HI', 'HI', 'EN', 'HI', 'EN']",/mərkeːt dʒaːnə hɛː eːveːnɪŋ mẽː ʃoːppɪŋ/
+friends ke saath dinner tonight 8,neutral,friends ke saath dinner tonight 8,"['EN', 'HI', 'HI', 'EN', 'UNK', 'UNK']",/frendz keː saːtʰ dɪnər toːnɪgʰt 8/
+friends ke saath dinner at tonight 8,neutral,friends ke saath dinner at tonight 8,"['EN', 'HI', 'HI', 'EN', 'EN', 'UNK', 'UNK']",/frendz keː saːtʰ dɪnər æt toːnɪgʰt 8/
+next week leave lena he for travel,neutral,next week leave lena hai for travel,"['UNK', 'EN', 'EN', 'HI', 'HI', 'EN', 'UNK']",/neːkst wiːk leːəveː leːnaː hɛː fɔːr trəveːl/
+next week leave hai lena for travel,neutral,next week leave hai lena for travel,"['UNK', 'EN', 'EN', 'HI', 'HI', 'EN', 'UNK']",/neːkst wiːk leːəveː hɛː leːnaː fɔːr trəveːl/
+next week leave lena for hain travel,neutral,next week leave lena for hai travel,"['UNK', 'EN', 'EN', 'HI', 'EN', 'HI', 'UNK']",/neːkst wiːk leːəveː leːnaː fɔːr hɛː trəveːl/
+bro tu kaisa long hain time no talk,neutral,bro tu kaisa long hai time no talk,"['EN', 'HI', 'HI', 'EN', 'HI', 'HI', 'EN', 'UNK']",/broʊ tuː kɛːsaː lɒŋ hɛː tɪmeː noʊ təlk/
+bhai hai long no talk,neutral,bhai hai long no talk,"['HI', 'HI', 'EN', 'EN', 'UNK']",/bʰaːiː hɛː lɒŋ noʊ təlk/
+tu kaisa hain long no talk,neutral,tu kaisa hai long no talk,"['HI', 'HI', 'HI', 'EN', 'EN', 'UNK']",/tuː kɛːsaː hɛː lɒŋ noʊ təlk/
+amazon se kiya order tha waiting delivery,neutral,amazon se kya order tha waiting delivery,"['UNK', 'HI', 'HI', 'UNK', 'HI', 'EN', 'UNK']",/əməzoːn seː kjaː oːrdeːr tʰaː weɪtɪŋ deːlɪveːrj/
+amazon se order kiya thaa waiting delivery,neutral,amazon se order kya tha waiting delivery,"['UNK', 'HI', 'UNK', 'HI', 'HI', 'EN', 'UNK']",/əməzoːn seː oːrdeːr kjaː tʰaː weɪtɪŋ deːlɪveːrj/
+interview hai preparing for it,neutral,interview hai preparing for it,"['UNK', 'HI', 'EN', 'EN', 'EN']",/ɪnteːrvɪeːw hɛː preːpərɪŋ fɔːr ɪt/
+sunday party ko hain at my place,neutral,sunday party ko hai at my place,"['UNK', 'EN', 'HI', 'HI', 'EN', 'EN', 'EN']",/sʊndəj pɑːrtiː koː hɛː æt maɪ pleɪs/
+sunday party ko hai at my place,neutral,sunday party ko hai at my place,"['UNK', 'EN', 'HI', 'HI', 'EN', 'EN', 'EN']",/sʊndəj pɑːrtiː koː hɛː æt maɪ pleɪs/
+sunday ko party hain at my place,neutral,sunday ko party hai at my place,"['UNK', 'HI', 'EN', 'HI', 'EN', 'EN', 'EN']",/sʊndəj koː pɑːrtiː hɛː æt maɪ pleɪs/
+new series ki start hai watching slowly,neutral,new series ki start hai watching slowly,"['EN', 'UNK', 'HI', 'EN', 'HI', 'EN', 'EN']",/njuː seːrɪeːs kiː stɑːrt hɛː wɒtʃɪŋ sloːwlj/
+new series start ki hain watching slowly,neutral,new series start ki hai watching slowly,"['EN', 'UNK', 'EN', 'HI', 'HI', 'EN', 'EN']",/njuː seːrɪeːs stɑːrt kiː hɛː wɒtʃɪŋ sloːwlj/
+series new start ki hai watching slowly,neutral,series new start ki hai watching slowly,"['UNK', 'EN', 'EN', 'HI', 'HI', 'EN', 'EN']",/seːrɪeːs njuː stɑːrt kiː hɛː wɒtʃɪŋ sloːwlj/
+doctor appointment is 5 baje,neutral,doctor appointment is 5 baje,"['UNK', 'EN', 'EN', 'UNK', 'UNK']",/doːktoːr əppɔɪntmeːnt ɪz 5 bədʒeː/
+rent pay kar is end of month,neutral,rent pay kar is end of month,"['UNK', 'UNK', 'HI', 'EN', 'UNK', 'UNK', 'EN']",/reːnt pəj kər ɪz eːnd oːf mʌnθ/
+rent karna pay hai end of month,neutral,rent karna pay hai end of month,"['UNK', 'HI', 'UNK', 'HI', 'UNK', 'UNK', 'EN']",/reːnt kərnaː pəj hɛː eːnd oːf mʌnθ/
+grocery shopping karna h list ready,neutral,grocery shopping karna hai list ready,"['UNK', 'EN', 'HI', 'HI', 'UNK', 'UNK']",/groːkeːrj ʃoːppɪŋ kərnaː hɛː lɪst reːədj/
+grocery kar shopping he list ready,neutral,grocery kar shopping hai list ready,"['UNK', 'HI', 'EN', 'HI', 'UNK', 'UNK']",/groːkeːrj kər ʃoːppɪŋ hɛː lɪst reːədj/
+grocery shopping karna h list ready,neutral,grocery shopping karna hai list ready,"['UNK', 'EN', 'HI', 'HI', 'UNK', 'UNK']",/groːkeːrj ʃoːppɪŋ kərnaː hɛː lɪst reːədj/
+karna laundry weekend pe,neutral,karna laundry weekend pe,"['HI', 'UNK', 'HI', 'HI']",/kərnaː laʊndrj wiːkeːnd peː/
+call do hain parents ko evening mein,neutral,call do hai parents ko evening mein,"['EN', 'HI', 'HI', 'UNK', 'HI', 'EN', 'HI']",/kɔːl doː hɛː pəreːnts koː eːveːnɪŋ mẽː/
+karna call he parents ko evening mein,neutral,karna call hai parents ko evening mein,"['HI', 'EN', 'HI', 'UNK', 'HI', 'EN', 'HI']",/kərnaː kɔːl hɛː pəreːnts koː eːveːnɪŋ mẽː/
+presentation banana he for tomorrow,neutral,presentation banana hai for tomorrow,"['EN', 'UNK', 'HI', 'EN', 'EN']",/prezənteɪʃən bənənə hɛː fɔːr təmɒroʊ/
+banana presentation hai for tomorrow,neutral,banana presentation hai for tomorrow,"['UNK', 'EN', 'HI', 'EN', 'EN']",/bənənə prezənteɪʃən hɛː fɔːr təmɒroʊ/
+presentation banana he for tomorrow,neutral,presentation banana hai for tomorrow,"['EN', 'UNK', 'HI', 'EN', 'EN']",/prezənteɪʃən bənənə hɛː fɔːr təmɒroʊ/
+bike service ke liye jaana h,neutral,bike service ke liye jaana hai,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'HI']",/bɪkeː sɜːrvɪs keː lɪjeː dʒaːnə hɛː/
+bike service ke liye jaana is,neutral,bike service ke liye jaana is,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'EN']",/bɪkeː sɜːrvɪs keː lɪjeː dʒaːnə ɪz/
+bike service ke liye jaana is,neutral,bike service ke liye jaana is,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'EN']",/bɪkeː sɜːrvɪs keː lɪjeː dʒaːnə ɪz/
+electricity bill pay do is online,neutral,electricity bill pay do is online,"['UNK', 'UNK', 'UNK', 'HI', 'EN', 'UNK']",/eːleːktrɪkɪtj bɪll pəj doː ɪz oːnlɪneː/
+bill karna online,neutral,bill karna online,"['UNK', 'HI', 'UNK']",/bɪll kərnaː oːnlɪneː/
+electricity bill pay karna h online,neutral,electricity bill pay karna hai online,"['UNK', 'UNK', 'UNK', 'HI', 'HI', 'UNK']",/eːleːktrɪkɪtj bɪll pəj kərnaː hɛː oːnlɪneː/
+haircut karana hai very gaye badh,neutral,haircut karana hai very gaye badh,"['UNK', 'UNK', 'HI', 'EN', 'HI', 'UNK']",/haɪrkʊt kərənə hɛː veriː gəjeː bədʰ/
+karana hai very gaye,neutral,karana hai very gaye,"['UNK', 'HI', 'EN', 'HI']",/kərənə hɛː veriː gəjeː/
+meeting reschedule ho gayi wednesday to,neutral,meeting reschedule ho gayi wednesday to,"['EN', 'UNK', 'HI', 'HI', 'UNK', 'HI']",/miːtɪŋ reːstʃeːdʊleː hoː gəjiː weːdneːsdəj toː/
+aane parcel wala he tracking shows nearby,neutral,aane parcel wala hai tracking shows nearby,"['HI', 'UNK', 'UNK', 'HI', 'EN', 'UNK', 'UNK']",/aːneː pərkeːl wələ hɛː trəkkɪŋ ʃoːws neːərbj/
+parcel wala aane h tracking shows nearby,neutral,parcel wala aane hai tracking shows nearby,"['UNK', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'UNK']",/pərkeːl wələ aːneː hɛː trəkkɪŋ ʃoːws neːərbj/
+lunch mein kya tell khaya me,neutral,lunch mein kya tell khaya mein,"['EN', 'HI', 'HI', 'EN', 'HI', 'HI']",/lʌntʃ mẽː kjaː teːll kʰəjə mẽː/
+lunch mein kia khaya tell me,neutral,lunch mein kya khaya tell mein,"['EN', 'HI', 'HI', 'HI', 'EN', 'HI']",/lʌntʃ mẽː kjaː kʰəjə teːll mẽː/
+mein lunch kya khaya tell me,neutral,mein lunch kya khaya tell mein,"['HI', 'EN', 'HI', 'HI', 'EN', 'HI']",/mẽː lʌntʃ kjaː kʰəjə teːll mẽː/
+se office nikla traffic dekh ke batata hun,neutral,se office nikla traffic dekh ke batata hun,"['HI', 'EN', 'UNK', 'EN', 'HI', 'HI', 'UNK', 'HI']",/seː ɒfɪs nɪklə træfɪk deːkʰ keː bətətə hũː/
+office traffic dekh ke batata hun,neutral,office traffic dekh ke batata hun,"['EN', 'EN', 'HI', 'HI', 'UNK', 'HI']",/ɒfɪs træfɪk deːkʰ keː bətətə hũː/
+se nikla traffic dekh ke hun,neutral,se nikla traffic dekh ke hun,"['HI', 'UNK', 'EN', 'HI', 'HI', 'HI']",/seː nɪklə træfɪk deːkʰ keː hũː/
+abi gym mein call hun back later,neutral,abhi gym mein call hun back later,"['HI', 'UNK', 'HI', 'EN', 'HI', 'UNK', 'UNK']",/əbʰiː gjm mẽː kɔːl hũː bæk leɪtər/
+abhe gym mai hun back later,neutral,abhe gym mein hun back later,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/əbʰeː gjm mẽː hũː bæk leɪtər/
+7 baje hai reach by 6:45,neutral,7 baje hai reach by 6:45,"['UNK', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/7 bədʒeː hɛː reːətʃ baɪ 6:45/
+movie 7 baje start h reach by 6:45,neutral,movie 7 baje start hai reach by 6:45,"['EN', 'UNK', 'UNK', 'EN', 'HI', 'UNK', 'EN', 'UNK']",/muːviː 7 bədʒeː stɑːrt hɛː reːətʃ baɪ 6:45/
+ji sharma ka beta abroad ja raha,neutral,ji sharma ka beta abroad ja raha,"['HI', 'UNK', 'HI', 'UNK', 'UNK', 'HI', 'HI']",/dʒiː ʃərmə kaː beːtə əbroːəd dʒaː rəhaː/
+sharma ka beta abroad ja rahaa,neutral,sharma ka beta abroad ja rahaa,"['UNK', 'HI', 'UNK', 'UNK', 'HI', 'HI']",/ʃərmə kaː beːtə əbroːəd dʒaː rəhaː/
+new khula hai near office,neutral,new khula hai near office,"['EN', 'UNK', 'HI', 'UNK', 'EN']",/njuː kʰʊlə hɛː neːər ɒfɪs/
+new khula restaurant hain near office,neutral,new khula restaurant hai near office,"['EN', 'UNK', 'UNK', 'HI', 'UNK', 'EN']",/njuː kʰʊlə reːstaʊrənt hɛː neːər ɒfɪs/
+new restaurant khula near is office,neutral,new restaurant khula near is office,"['EN', 'UNK', 'UNK', 'UNK', 'EN', 'EN']",/njuː reːstaʊrənt kʰʊlə neːər ɪz ɒfɪs/
+metro se raha ja hun will take time,neutral,metro se raha ja hun will take time,"['UNK', 'HI', 'HI', 'HI', 'HI', 'UNK', 'UNK', 'HI']",/meːtroː seː rəhaː dʒaː hũː wɪl təkeː tɪmeː/
+metro se ja raha hun will time take,neutral,metro se ja raha hun will time take,"['UNK', 'HI', 'HI', 'HI', 'HI', 'UNK', 'HI', 'UNK']",/meːtroː seː dʒaː rəhaː hũː wɪl tɪmeː təkeː/
+gayi coming up,neutral,gayi coming up,"['HI', 'EN', 'UNK']",/gəjiː kʌmɪŋ ʊp/
+battery low hain phone ki charge karo hai,neutral,battery low hai phone ki charge karo hai,"['UNK', 'UNK', 'HI', 'EN', 'HI', 'UNK', 'HI', 'HI']",/bətteːrj loːw hɛː foʊn kiː tʃərgeː kəroː hɛː/
+battery low hain phone ki charge karna hai,neutral,battery low hai phone ki charge karna hai,"['UNK', 'UNK', 'HI', 'EN', 'HI', 'UNK', 'HI', 'HI']",/bətteːrj loːw hɛː foʊn kiː tʃərgeː kərnaː hɛː/
+battery low phone hai ki charge karna hai,neutral,battery low phone hai ki charge karna hai,"['UNK', 'UNK', 'EN', 'HI', 'HI', 'UNK', 'HI', 'HI']",/bətteːrj loːw foʊn hɛː kiː tʃərgeː kərnaː hɛː/
+weather cloudy hai rain might later,neutral,weather cloudy hai rain might later,"['UNK', 'UNK', 'HI', 'UNK', 'UNK', 'UNK']",/weːətʰeːr klaʊdj hɛː raɪn mɪgʰt leɪtər/
+weather cloudy is might rain later,neutral,weather cloudy is might rain later,"['UNK', 'UNK', 'EN', 'UNK', 'UNK', 'UNK']",/weːətʰeːr klaʊdj ɪz mɪgʰt raɪn leɪtər/
+weather cloudy hai rain later,neutral,weather cloudy hai rain later,"['UNK', 'UNK', 'HI', 'UNK', 'UNK']",/weːətʰeːr klaʊdj hɛː raɪn leɪtər/
+sale lagi hain online checking deals,neutral,sale lagi hai online checking deals,"['UNK', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/səleː ləgɪ hɛː oːnlɪneː tʃeːkkɪŋ deːəls/
+sale lagi online deals,neutral,sale lagi online deals,"['UNK', 'UNK', 'UNK', 'UNK']",/səleː ləgɪ oːnlɪneː deːəls/
+cousin ki shaadi hain next month,neutral,cousin ki shaadi hai next month,"['UNK', 'HI', 'HI', 'HI', 'UNK', 'EN']",/kaʊsɪn kiː ʃaːdɪ hɛː neːkst mʌnθ/
+shaadi next month,neutral,shaadi next month,"['HI', 'UNK', 'EN']",/ʃaːdɪ neːkst mʌnθ/
+exam results aane wale waiting hain,neutral,exam results aane wale waiting hai,"['EN', 'UNK', 'HI', 'UNK', 'EN', 'HI']",/ɪgzæm reːsʊlts aːneː wəleː weɪtɪŋ hɛː/
+password bhul gayaa reset karna padega,neutral,password bhul gayaa reset karna padega,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'UNK']",/pəsswoːrd bʰʊl gəjaː reːseːt kərnaː pədeːgə/
+password bhul gaya karna reset padega,neutral,password bhul gaya karna reset padega,"['UNK', 'UNK', 'HI', 'HI', 'UNK', 'UNK']",/pəsswoːrd bʰʊl gəjaː kərnaː reːseːt pədeːgə/
+update install ho rha he system pe,neutral,update install ho rha hai system pe,"['UNK', 'UNK', 'HI', 'UNK', 'HI', 'UNK', 'HI']",/ʊpdəteː ɪnstəll hoː rhə hɛː sjsteːm peː/
+install update ho raha hai system pe,neutral,install update ho raha hai system pe,"['UNK', 'UNK', 'HI', 'HI', 'HI', 'UNK', 'HI']",/ɪnstəll ʊpdəteː hoː rəhaː hɛː sjsteːm peː/
+file send kar di email,neutral,file send kar di email,"['UNK', 'UNK', 'HI', 'HI', 'UNK']",/fɪleː seːnd kər dɪ eːmaɪl/
+file send di check your email,neutral,file send di check your email,"['UNK', 'UNK', 'HI', 'UNK', 'EN', 'UNK']",/fɪleː seːnd dɪ tʃeːkk jɔːr eːmaɪl/
+location karta share hun maps pe,neutral,location karta share hun maps pe,"['EN', 'HI', 'UNK', 'HI', 'UNK', 'HI']",/loːkətɪoːn kərtaː ʃəreː hũː məps peː/
+table karni book hai for 4 people,neutral,table karni book hai for 4 people,"['EN', 'UNK', 'HI', 'HI', 'EN', 'UNK', 'UNK']",/təbleː kərnɪ buːk hɛː fɔːr 4 peːoːpleː/
+table book karni hai 4 people,neutral,table book karni hai 4 people,"['EN', 'HI', 'UNK', 'HI', 'UNK', 'UNK']",/təbleː buːk kərnɪ hɛː 4 peːoːpleː/
+table book karni h for 4 people,neutral,table book karni hai for 4 people,"['EN', 'HI', 'UNK', 'HI', 'EN', 'UNK', 'UNK']",/təbleː buːk kərnɪ hɛː fɔːr 4 peːoːpleː/
+class swimming join karni hai summer mein,neutral,class swimming join karni hai summer mein,"['EN', 'EN', 'UNK', 'UNK', 'HI', 'UNK', 'HI']",/klɑːs swɪmmɪŋ dʒɔɪn kərnɪ hɛː sʊmmeːr mẽː/
+swimming class join karni hai summer main,neutral,swimming class join karni hai summer mein,"['EN', 'EN', 'UNK', 'UNK', 'HI', 'UNK', 'HI']",/swɪmmɪŋ klɑːs dʒɔɪn kərnɪ hɛː sʊmmeːr mẽː/
+swimming class join karni hai mein summer,neutral,swimming class join karni hai mein summer,"['EN', 'EN', 'UNK', 'UNK', 'HI', 'HI', 'UNK']",/swɪmmɪŋ klɑːs dʒɔɪn kərnɪ hɛː mẽː sʊmmeːr/

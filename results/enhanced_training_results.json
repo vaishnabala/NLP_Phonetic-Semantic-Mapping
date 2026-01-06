@@ -1,0 +1,25 @@
+{
+  "test_loss": 0.48271944373846054,
+  "test_accuracy": 0.6,
+  "best_val_accuracy": 0.7333333333333333,
+  "basic_model_accuracy": 0.5,
+  "improvement": 9.999999999999998,
+  "config": {
+    "embedding_dim": 64,
+    "hidden_dim": 128,
+    "output_dim": 64,
+    "prosody_dim": 24,
+    "num_layers": 2,
+    "dropout": 0.3,
+    "use_attention": true,
+    "batch_size": 8,
+    "num_epochs": 40,
+    "learning_rate": 0.0005,
+    "weight_decay": 0.0001,
+    "margin": 0.5,
+    "lr_patience": 5,
+    "lr_factor": 0.5,
+    "early_stopping_patience": 12,
+    "max_seq_length": 25
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "accuracy": 0.36666666666666664,
+  "precision": 0.35,
+  "recall": 0.36666666666666664,
+  "f1_score": 0.3558922558922558,
+  "confusion_matrix": [
+    [
+      6,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      4
+    ],
+    [
+      3,
+      5,
+      2
+    ]
+  ],
+  "class_report": {
+    "positive": {
+      "precision": 0.5,
+      "recall": 0.6,
+      "f1-score": 0.5454545454545454,
+      "support": 10.0
+    },
+    "negative": {
+      "precision": 0.3,
+      "recall": 0.3,
+      "f1-score": 0.3,
+      "support": 10.0
+    },
+    "neutral": {
+      "precision": 0.25,
+      "recall": 0.2,
+      "f1-score": 0.2222222222222222,
+      "support": 10.0
+    }
+  },
+  "errors": [
+    {
+      "text": "sunset bahut beautiful tha clicked photos",
+      "true_label": "positive",
+      "predicted_label": "neutral"
+    },
+    {
+      "text": "standup show hilarious tha non stop laughing",
+      "true_label": "positive",
+      "predicted_label": "neutral"
+    },
+    {
+      "text": "baby ki smile made my day adorable",
+      "true_label": "positive",
+      "predicted_label": "negative"
+    },
+    {
+      "text": "handwritten letter mila so thoughtful",
+      "true_label": "positive",
+      "predicted_label": "negative"
+    },
+    {
+      "text": "ice cream melt ho gayi garam mein wasted",
+      "true_label": "negative",
+      "predicted_label": "neutral"
+    },
+    {
+      "text": "zip stuck ho gayi jacket ki struggling",
+      "true_label": "negative",
+      "predicted_label": "positive"
+    },
+    {
+      "text": "lift band thi stairs climb karna pada",
+      "true_label": "negative",
+      "predicted_label": "positive"
+    },
+    {
+      "text": "milk expire ho gaya chai nahi bani",
+      "true_label": "negative",
+      "predicted_label": "neutral"
+    },
+    {
+      "text": "tangled earphones untangle karte karte pagal",
+      "true_label": "negative",
+      "predicted_label": "neutral"
+    },
+    {
+      "text": "important mail spam mein chala gaya missed it",
+      "true_label": "negative",
+      "predicted_label": "positive"
+    },
+    {
+      "text": "OTP nahi aa raha transaction fail",
+      "true_label": "negative",
+      "predicted_label": "neutral"
+    },
+    {
+      "text": "cab book kiya on the way hai",
+      "true_label": "neutral",
+      "predicted_label": "positive"
+    },
+    {
+      "text": "washing machine chalu hai clothes done soon",
+      "true_label": "neutral",
+      "predicted_label": "positive"
+    },
+    {
+      "text": "zoom call join karna hai 4 baje",
+      "true_label": "neutral",
+      "predicted_label": "negative"
+    },
+    {
+      "text": "playlist bana raha hun for workout",
+      "true_label": "neutral",
+      "predicted_label": "positive"
+    },
+    {
+      "text": "notes type kar raha hun lecture ke",
+      "true_label": "neutral",
+      "predicted_label": "negative"
+    },
+    {
+      "text": "water bottle refill karni hai empty ho gayi",
+      "true_label": "neutral",
+      "predicted_label": "negative"
+    },
+    {
+      "text": "screen brightness adjust kar raha hun",
+      "true_label": "neutral",
+      "predicted_label": "negative"
+    },
+    {
+      "text": "calendar mein event add kiya reminder set",
+      "true_label": "neutral",
+      "predicted_label": "negative"
+    }
+  ],
+  "embedding_stats": {
+    "positive": {
+      "count": 10,
+      "variance": 5.9868158132303506e-05,
+      "avg_spread": 0.05828357860445976
+    },
+    "negative": {
+      "count": 10,
+      "variance": 9.326812869403511e-05,
+      "avg_spread": 0.0738585889339447
+    },
+    "neutral": {
+      "count": 10,
+      "variance": 8.698544115759432e-05,
+      "avg_spread": 0.07129333913326263
+    },
+    "distance_positive_negative": 0.0836975947022438,
+    "distance_positive_neutral": 0.06187143921852112,
+    "distance_negative_neutral": 0.028717705979943275
+  }
+}
