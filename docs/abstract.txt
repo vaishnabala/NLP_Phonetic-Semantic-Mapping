@@ -1,0 +1,97 @@
+
+═══════════════════════════════════════════════════════════════════════════════
+                              RESEARCH ABSTRACT
+═══════════════════════════════════════════════════════════════════════════════
+
+TITLE: Phonetic-Semantic Mapping for Sentiment Analysis in Hindi-English 
+       Code-Mixed Text: A Prosody-Enhanced Contrastive Learning Approach
+
+AUTHORS: Vaishnabala
+DATE: January 2026
+
+───────────────────────────────────────────────────────────────────────────────
+
+ABSTRACT
+
+Code-mixing, the practice of alternating between languages within a single 
+utterance, is prevalent among multilingual speakers, particularly in India 
+where Hindi-English mixing is ubiquitous in social media and daily 
+communication. Traditional NLP models struggle with code-mixed text due to 
+inconsistent Romanized spellings (e.g., "kya", "kiya", "kyaa" for the same 
+word) and the absence of standardized orthography.
+
+This paper presents a novel phonetic-semantic mapping approach for sentiment 
+analysis in Hindi-English code-mixed text. Our contributions include: 
+
+(1) A grapheme-to-phoneme (G2P) conversion system specifically designed for 
+    Romanized Hindi-English text, handling 103 Hindi and 197 English phoneme 
+    mappings; 
+
+(2) A spelling normalization module addressing 47+ common spelling variations; 
+
+(3) A prosody feature extractor inspired by Indian classical music theory, 
+    capturing rhythmic and tonal patterns in 24-dimensional vectors; and 
+
+(4) A contrastive learning framework using triplet loss to learn semantically 
+    meaningful phonetic embeddings.
+
+We evaluate our approach on a dataset of 210 code-mixed samples across three 
+sentiment classes (positive, negative, neutral). Our phonetic-prosody model 
+achieves 46.67% accuracy, outperforming random baseline (33.33%) by 13.34 
+percentage points. While traditional TF-IDF approaches (76.67%) and mBERT 
+(66.67%) achieve higher accuracy on this limited dataset, our work establishes 
+a foundation for phonetic-aware processing of code-mixed text. The phonetic 
+approach shows particular promise for handling spelling variations and could 
+benefit from larger training datasets.
+
+───────────────────────────────────────────────────────────────────────────────
+
+KEYWORDS: Code-mixing, Hindi-English, Phonetic embeddings, Sentiment analysis, 
+          Prosody features, Contrastive learning, Low-resource NLP
+
+───────────────────────────────────────────────────────────────────────────────
+
+RESEARCH CONTRIBUTIONS:
+
+1. NOVEL G2P SYSTEM
+   - First grapheme-to-phoneme converter for Romanized Hindi-English
+   - 103 Hindi phoneme mappings + 197 English phoneme mappings
+   - Language-aware conversion using automatic language detection
+
+2. SPELLING NORMALIZATION
+   - Handles 47+ spelling variations in Romanized Hindi
+   - Examples: kya/kiya/kyaa → kya, bohot/boht/bhot → bahut
+   - Improves phonetic consistency
+
+3. PROSODY FEATURE EXTRACTION
+   - 24-dimensional prosodic features
+   - Inspired by Indian classical music concepts (taal, laya)
+   - Captures rhythm, stress, and intensity patterns
+
+4. CONTRASTIVE LEARNING APPROACH
+   - Triplet loss training for semantic similarity
+   - Learns embeddings where similar sentiments cluster together
+   - Novel application to code-mixed text
+
+───────────────────────────────────────────────────────────────────────────────
+
+RESULTS SUMMARY:
+
+| Model                          | Accuracy | vs Random |
+|--------------------------------|----------|-----------|
+| TF-IDF + Logistic Regression   | 76.67%   | +43.34%   |
+| TF-IDF + SVM                   | 76.67%   | +43.34%   |
+| mBERT + Logistic Regression    | 66.67%   | +33.34%   |
+| Our Phonetic-Prosody Model     | 46.67%   | +13.34%   |
+| Random Baseline                | 33.33%   | -         |
+
+───────────────────────────────────────────────────────────────────────────────
+
+LIMITATIONS AND FUTURE WORK:
+
+1. Small dataset (210 samples) limits deep learning performance
+2. Need larger code-mixed corpora for better training
+3. Could incorporate pre-trained phonetic embeddings
+4. Extend to other Indian language pairs (Tamil-English, Telugu-English)
+
+═══════════════════════════════════════════════════════════════════════════════
