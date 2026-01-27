@@ -1,13 +1,8 @@
 # NLP_Phonetic-Semantic Mapping
 Research Project
-═══════════════════════════════════════════════════════════════════════════════
-                              RESEARCH ABSTRACT
-═══════════════════════════════════════════════════════════════════════════════
 
 TITLE: Phonetic-Semantic Mapping for Sentiment Analysis in Hindi-English 
        Code-Mixed Text: A Prosody-Enhanced Contrastive Learning Approach
-
-───────────────────────────────────────────────────────────────────────────────
 
 ABSTRACT
 
