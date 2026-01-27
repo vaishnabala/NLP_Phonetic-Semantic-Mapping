@@ -39,9 +39,3 @@ benefit from larger training datasets.
 
 KEYWORDS: Code-mixing, Hindi-English, Phonetic embeddings, Sentiment analysis, 
           Prosody features, Contrastive learning, Low-resource NLP
-
-───────────────────────────────────────────────────────────────────────────────
-
-Word Count: 267
-═══════════════════════════════════════════════════════════════════════════════
-
